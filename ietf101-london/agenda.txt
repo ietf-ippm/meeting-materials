@@ -22,12 +22,12 @@
 
 **(17:30, Enforced 5 min limit for each talk)**
 
-- draft-brockners-ippm-ioam-vxlan-gpe - F. Brockners
-- draft-brockners-ippm-ioam-geneve - F. Brockners
-- draft-weis-ippm-ioam-gre - B. Weis
+- draft-brockners-ippm-ioam-vxlan-gpe
+- draft-brockners-ippm-ioam-geneve
+- draft-weis-ippm-ioam-gre
 - draft-mirsky-ippm-stamp-option-tlv - G. Mirsky
-- draft-fioccola-ippm-multipoint-alt-mark - G. Fioccola
-- draft-mizrahi-ippm-compact-alternate-marking - T. Mizrahi
+- draft-fioccola-ippm-multipoint-alt-mark - 
+- draft-mizrahi-ippm-compact-alternate-marking -
 - draft-mirsky-ippm-hybrid-two-step - G. Mirsky 
 - draft-zhou-ippm-ioam-yang - T. Zhou
 - Multi-Vendor Interoperability Testing Results Update to IPPM WG - C. Rossenhoevel
