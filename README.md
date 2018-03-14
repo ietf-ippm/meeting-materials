@@ -2,7 +2,7 @@
 This repository contains materials for meetings of the 
 [Internet Engineering Task Force](https://www.ietf.org) (IETF) 
 [IP Performance Measurement](https://datatracker.ietf.org/wg/ippm) (IPPM) 
-working group, in separate directories for each 
+working group, in separate directories for each meeting.
 
 Not all materials are available in this repository; this provides a 
 location to organize agendas and chair slides, as well as to allow 
