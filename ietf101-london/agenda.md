@@ -9,13 +9,13 @@
 | Time    | Length | What                                   | Who           |
 |---------|--------|----------------------------------------|---------------|
 | 15:50   | 10m    | Welcome, Note Well, Agenda, Status     | Chairs        |
-| 16:00   | 5m     | [draft-ietf-ippm-2330-ipv6][1]         |               |
-| 16:05   | 15m    | [draft-ietf-ippm-metric-registry][2]   | A. Morton     |
-|         |        | [draft-ietf-ippm-initial-registry][3]  |               |
-| 16:20   | 15m    | [draft-ietf-ippm-port-twamp-test][4]   |               |
+| 16:00   | 5m     | [draft-ietf-ippm-2330-ipv6][1]         | A. Morton     |
+| 16:05   | 15m    | [draft-ietf-ippm-metric-registry][2] & | A. Morton     |
+|         |        | [draft-ietf-ippm-initial-registry][3]  | A. Morton     |
+| 16:20   | 15m    | [draft-ietf-ippm-port-twamp-test][4]   | A. Morton     |
 | 16:35   | 15m    | [draft-ietf-ippm-route][5]             | A. Morton     |
-| 16:50   | 15m    | [draft-ietf-ippm-stamp][6]             |               |
-| 17:05   | 10m    | [draft-ietf-ippm-stamp-yang][7]        |               |
+| 16:50   | 15m    | [draft-ietf-ippm-stamp][6]             | G. Mirsky     |
+| 17:05   | 10m    | [draft-ietf-ippm-stamp-yang][7]        | G. Mirsky     |
 | 17:15   | 15m    | [draft-ietf-ippm-ioam-data][8]         | F. Brockners  |
 
 ## Lightning Talks 
