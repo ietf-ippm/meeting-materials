@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>IPPM Minutes IETF 101</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <style type="text/css">body {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;}
+table {border-collapse: collapse; width: 80%;}
+td, th {border: 1px solid #ddd; padding: 8px;}
+tr:nth-child(even){background-color: #f2f2f2;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header>
+<h1 class="title">IPPM Minutes IETF 101</h1>
+</header>
+<h1 id="main-agenda-minutes">Main Agenda Minutes</h1>
+<p><em>When:</em> 15:50 - 18:20 UTC, Tuesday 20 March 2018</p>
+<p><em>Where:</em> Richmond/Chelsea/Tower, Hilton Metropole, London</p>
+<p><em>Chairs:</em> Brian Trammell and Bill Cerveny (remote)</p>
+<p><em>Notes:</em> Roni Even and Chris Wood (?); many thanks!</p>
+<h2 id="welcome-note-well-agenda-status---b.-trammell">Welcome, Note Well, Agenda, Status - B. Trammell</h2>
+<h2 id="draft-ietf-ippm-2330-ipv61---a.-morton"><a href="https://tools.ietf.org/html/draft-ietf-ippm-2330-ipv6">draft-ietf-ippm-2330-ipv6</a> - A. Morton</h2>
+<h2 id="draft-ietf-ippm-metric-registry2-draft-ietf-ippm-initial-registry3---a.-morton"><a href="https://tools.ietf.org/html/draft-ietf-ippm-metric-registry">draft-ietf-ippm-metric-registry</a> &amp; <a href="https://tools.ietf.org/html/draft-ietf-ippm-initial-registry">draft-ietf-ippm-initial-registry</a> - A. Morton</h2>
+<p>New element for handshake; new definition for QUIC as well.</p>
+<p>Looking at how TCP heuristics change when looking at a version of QUIC enabled with spin-bit approach. This doesn’t get RTT information with each packet, but in number of RTTs.</p>
+<p>Brian Trammell (individual): Discussion on spin-bit is the schedule for Thursday in QUIC. Please come by! Method here is not QUIC-specific. We did experimentation, and it actually gets better RTT measurement than it does when measuring within the encrypted stream.</p>
+<p>Al: Wasn’t planning on adding QUIC here, just paving the way. We’d need a new metric for QUIC anyway.</p>
+<p>Actions: - Yaakov, Brian, and Rachael will review TCP section - Ignacio will review DNS section - XRBlock meeting on Thursday, (Al?) will bring feedback to the group</p>
+<p>Matt: Does this mean we’ll have a small document for every new entry?</p>
+<p>Al: These aren’t one-line RFCs, they do need text around them</p>
+<h2 id="draft-ietf-ippm-port-twamp-test4---a.-morton"><a href="https://tools.ietf.org/html/draft-ietf-ippm-port-twamp-test">draft-ietf-ippm-port-twamp-test</a> - A. Morton</h2>
+<p>Action: - Looks like the IANA table has an error, Al to double check that</p>
+<h2 id="draft-ietf-ippm-route5---a.-morton"><a href="https://tools.ietf.org/html/draft-ietf-ippm-route">draft-ietf-ippm-route</a> - A. Morton</h2>
+<p>Generalized definitions: The scope is to Internet/IP, and others if desired. Host is general, but is IP address for Internet. Etc.</p>
+<p>Yaakov: Another appendix beyond IP to add is Ethernet</p>
+<p>Ignacio: From traceroute at IP level, it’s best effort to get the same forward path every time. The hops are not necessarily connected physically. Tunnels may not be detected.</p>
+<p>Al: Yes, we need a sentence at the front to indicate that this isn’t perfect</p>
+<p>Rudiger: Adding MPLS or Ethernet would delay the document, maybe not add all of these</p>
+<p>Brian: There is an RFC for storage for traceroute—let’s not do that. Whatever format we have should capture that we don’t know that A is connected to B, but that we have packets between interfaces. We can’t assume we know the real hops, just what we could measure at a distance. Look at MapIt and BorderMap.</p>
+<p>Open questions to WG: - add appendix on applicability beyond IP? - investigate: how much can we use temporal stability on certain hops to optimize the measurements?</p>
+<p>Actions: - Jason Weil to review sections 4, 5, 6. - Jari Arkko to discuss efficient hop distance measurement tool</p>
+<h2 id="draft-ietf-ippm-stamp6-draft-ietf-ippm-stamp-yang7---g.-mirsky"><a href="https://tools.ietf.org/html/draft-ietf-ippm-stamp">draft-ietf-ippm-stamp</a> &amp; <a href="https://tools.ietf.org/html/draft-ietf-ippm-stamp-yang">draft-ietf-ippm-stamp-yang</a> - G. Mirsky</h2>
+<p>Yaakov: Use of encryption and auth are relatively limited. Auth makes more sense than encryption. Why do we need encryption on these test packets?</p>
+<p>Greg: For YANG model, change security to authentication. Defined new timestamp format.</p>
+<p>Yaakov: This draft looks good, updates are great</p>
+<p>Yaakov: Even a “dumb” reflector should maintain a notion of a session, as a security item.</p>
+<h2 id="draft-ietf-ippm-ioam-data8---f.-brockners"><a href="https://tools.ietf.org/html/draft-ietf-ippm-ioam-data">draft-ietf-ippm-ioam-data</a> - F. Brockners</h2>
+<p>Frank: New section on timestamp formats in IOAM. Introduction of IOAM type. Single codepoint for next protocol fields. Harmonize on single codepoint, solves GRE draft problem.</p>
+<p>Yaakov: Glad it’s extensible. Proof of transit doesn’t currently check ordering, and I’d like to add order checking to that.</p>
+<p>Frank: Secret sharing doesn’t have ordering, unwrapping does have</p>
+<p>Yaakov: I have a way to confirm ordering even with just secret sharing</p>
+<p>(Frank and Yaakov to follow up offline)</p>
+<p>Three timestamp formats: PTP/1588, NTP, and POSIX.</p>
+<p>Next steps: - Aspiration is to have WGLC by Montreal.</p>
+<h1 id="lightning-talk-notes">Lightning Talk Notes</h1>
+<h2 id="draft-brockners-ippm-ioam-vxlan-gpe--geneve--gre---f.-brockners-b.-weis">draft-brockners-ippm-ioam-vxlan-gpe, -geneve, -gre - F. Brockners &amp; B. Weis</h2>
+<p>Greg: there is an overlay design team and draft. Similar solution. Will be presented and call for adoption and should be reference. Where to put the information, three drafts or in the overlay design team document?</p>
+<p>Frank: it is not the same. Approach the same but cannot use the header. How many octets to use?</p>
+<p>Brian (as chair) / Mirja (as TSV AD): need to check the charter of the WGs (NVO3) for this item of data encapsulation. Who specifies the code points?</p>
+<p>(The conversation will continue in NVO3 this week)</p>
+</body>
+</html>

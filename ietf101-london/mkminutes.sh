@@ -1,0 +1,1 @@
+pandoc -M "title:IPPM Minutes IETF 101" --standalone --self-contained --css agenda.css minutes.md > minutes.html
