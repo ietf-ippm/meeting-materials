@@ -12,15 +12,18 @@
 | 13:35   | 15m    | [draft-ietf-ippm-metric-registry][1] & | A. Morton     |
 |         |        | [draft-ietf-ippm-initial-registry][2]  |       |
 | 13:50   | 10m    | [draft-ietf-ippm-route][3]             | A. Morton     |
-| 14:00   | 10m    | [draft-ietf-ippm-stamp][4] &           | G. Mirsky     |
-|         |        | [draft-ietf-ippm-stamp-yang][5]        |      |
-| 14:10   | 20m    | [draft-ietf-ippm-ioam-data][6]         | F. Brockners  |
+| 14:00   | 20m    | [draft-ietf-ippm-ioam-data][6]         | F. Brockners  |
 |         |        | [draft-brockners-ippm-ioam-vxlan-gpe][7]        |      |
 |         |        | [draft-brockners-ippm-ioam-geneve][8]        |      |
 |         |        | [draft-weis-ippm-ioam-gre][9]        |     |
 |         |        | [draft-spiegel-ippm-ioam-rawexport][10]        |      |
-| 14:30   | 15m    | [draft-fioccola-ippm-multipoint-alt-mark][11]         | G. Fioccola  |
-| 14:45   | 15m    | [draft-fear-ippm-mpdm][12]         | N. Elkins  |
+| 14:20   | 15m    | [draft-fioccola-ippm-multipoint-alt-mark][11]         | G. Fioccola  |
+| 14:35   | 15m    | [draft-fear-ippm-mpdm][12]         | N. Elkins  |
+
+## Ligntning Talks (as time permits)
+
+- [draft-alavarez-hamelin-tictoc-sic-01][13] (J. Ignacio Alvarez-Hamelin)
+- [draft-mirsky-ippm-hybrid-two-step-01][14] (G. Mirsky)
 
 [1]: https://tools.ietf.org/html/draft-ietf-ippm-metric-registry
 [2]: https://tools.ietf.org/html/draft-ietf-ippm-initial-registry
@@ -34,3 +37,5 @@
 [10]: https://tools.ietf.org/html/draft-spiegel-ippm-ioam-rawexport
 [11]: https://tools.ietf.org/html/draft-fioccola-ippm-multipoint-alt-mark
 [12]: https://tools.ietf.org/html/draft-fear-ippm-mpdm
+[13]: https://tools.ietf.org/html/draft-alavarez-hamelin-tictoc-sic-01
+[14]: https://tools.ietf.org/html/draft-mirsky-ippm-hybrid-two-step-01
