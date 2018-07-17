@@ -23,9 +23,9 @@
 ## Ligntning Talks (as time permits)
 
 - [draft-alavarez-hamelin-tictoc-sic-01][13] (J. Ignacio Alvarez-Hamelin)
-- [draft-mirsky-ippm-hybrid-two-step-01][14] (G. Mirsky)
 - [draft-zhou-ippm-ioam-yang-01][15] (T. Zhou)
 - [draft-song-ippm-ioam-tunnel-mode-00][16] (T. Zhou)
+- [draft-gandhi-spring-udp-pm][17] (R. Gandhi)
 
 [1]: https://tools.ietf.org/html/draft-ietf-ippm-metric-registry
 [2]: https://tools.ietf.org/html/draft-ietf-ippm-initial-registry
@@ -40,6 +40,6 @@
 [11]: https://tools.ietf.org/html/draft-fioccola-ippm-multipoint-alt-mark
 [12]: https://tools.ietf.org/html/draft-fear-ippm-mpdm
 [13]: https://tools.ietf.org/html/draft-alavarez-hamelin-tictoc-sic-01
-[14]: https://tools.ietf.org/html/draft-mirsky-ippm-hybrid-two-step-01
 [15]: https://datatracker.ietf.org/doc/draft-zhou-ippm-ioam-yang/
 [16]: https://datatracker.ietf.org/doc/draft-song-ippm-ioam-tunnel-mode/
+[17]: https://datatracker.ietf.org/doc/draft-gandhi-spring-udp-pm/
