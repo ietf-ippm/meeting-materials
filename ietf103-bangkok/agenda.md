@@ -25,7 +25,7 @@
 | [draft-gandhi-spring-udp-pm][8]         | R. Gandhi  |
 | [draft-gandhi-spring-sr-mpls-pm][9]  |       |
 | [draft-mizrahi-ippm-compact-alternate-marking][10]         | T. Mizrahi  |
-| Other Lightning Talks |       |
+| [draft-ali-spring-ioam-srv6][11]     | Z. Ali |
 
 [1]: https://tools.ietf.org/html/draft-ietf-ippm-metric-registry
 [2]: https://tools.ietf.org/html/draft-ietf-ippm-initial-registry
@@ -37,4 +37,4 @@
 [8]: https://datatracker.ietf.org/doc/draft-gandhi-spring-udp-pm/
 [9]: https://datatracker.ietf.org/doc/draft-gandhi-spring-sr-mpls-pm/
 [10]: https://datatracker.ietf.org/doc/draft-mizrahi-ippm-compact-alternate-marking
-
+[11]: https://datatracker.ietf.org/doc/draft-ali-spring-ioam-srv6
