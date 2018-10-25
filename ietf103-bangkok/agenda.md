@@ -8,33 +8,50 @@
 
 | Time    | Length | What                                   | Who           |
 |---------|--------|----------------------------------------|---------------|
-| 9:00   | 10m    | Welcome, Note Well, Agenda, Status     | Chairs        |
+| 9:00   | 5m    | Welcome, Note Well, Agenda, Status     | Chairs        |
 |         |        | Working Group on GitHub     |         |
+| 9:05   | 5m    | SDO Liason Updates | A. Morton     |
 | 9:10   | 15m    | [draft-ietf-ippm-metric-registry][1] & | A. Morton     |
 |         |        | [draft-ietf-ippm-initial-registry][2]  |       |
 | 9:25   | 10m    | [draft-ietf-ippm-route][3]             | A. Morton     |
-| 9:35   | 20m    | [draft-ietf-ippm-ioam-data][6]         | F. Brockners  |
-| 9:55   | 10m    | [draft-ietf-ippm-stamp][4]         | G. Mirsky  |
-|         |        | [draft-ietf-ippm-stamp-yang][5]  |       |
-| 10:05   | 15m    | [draft-fioccola-ippm-multipoint-alt-mark][7]         | G. Fioccola  |
+| 9:35   | 20m    | [draft-ietf-ippm-ioam-data][4]  &        | F. Brockners  |
+|         |        | [draft-spiegel-ippm-ioam-rawexport][5] &  |       |
+|         |        | [draft-weis-ippm-ioam-eth][6]  |       |
+| 9:55   | 10m    | [draft-ietf-ippm-stamp][7]         | G. Mirsky  |
+|         |        | [draft-ietf-ippm-stamp-yang][8]  |       |
+| 10:05   | 15m    | [draft-fioccola-ippm-multipoint-alt-mark][9]         | G. Fioccola  |
 
 ## Lightning Talks
 
 | What                                   | Who           |
 |----------------------------------------|---------------|
-| [draft-gandhi-spring-udp-pm][8]         | R. Gandhi  |
-| [draft-gandhi-spring-sr-mpls-pm][9]  |       |
-| [draft-mizrahi-ippm-compact-alternate-marking][10]         | T. Mizrahi  |
-| [draft-ali-spring-ioam-srv6][11]     | Z. Ali |
+| [draft-kumar-ippm-ifa][10]         | J. Kumar  |
+| [draft-gandhi-spring-udp-pm][11] &        | R. Gandhi  |
+| [draft-gandhi-spring-sr-mpls-pm][12]  |       |
+| [draft-mizrahi-ippm-compact-alternate-marking][13]         | T. Mizrahi  |
+| [draft-fear-ippm-mpdm][14]        | N. Elkins  |
+| [draft-xiao-ippm-ioam-conf-state][15]     | X. Min |
+| [draft-song-ippm-postcard-based-telemetry][16]     | H. Song |
+| [draft-ali-spring-ioam-srv6][17]     | Z. Ali |
+| [draft-zhou-ippm-enhanced-alternate-marking][18] &    | T. Zhou |
+| [draft-song-ippm-ioam-tunnel-mode][19] |       |
 
 [1]: https://tools.ietf.org/html/draft-ietf-ippm-metric-registry
 [2]: https://tools.ietf.org/html/draft-ietf-ippm-initial-registry
 [3]: https://tools.ietf.org/html/draft-ietf-ippm-route
-[4]: https://tools.ietf.org/html/draft-ietf-ippm-stamp
-[5]: https://tools.ietf.org/html/draft-ietf-ippm-stamp-yang
-[6]: https://tools.ietf.org/html/draft-ietf-ippm-ioam-data
-[7]: https://tools.ietf.org/html/draft-fioccola-ippm-multipoint-alt-mark
-[8]: https://datatracker.ietf.org/doc/draft-gandhi-spring-udp-pm/
-[9]: https://datatracker.ietf.org/doc/draft-gandhi-spring-sr-mpls-pm/
-[10]: https://datatracker.ietf.org/doc/draft-mizrahi-ippm-compact-alternate-marking
-[11]: https://datatracker.ietf.org/doc/draft-ali-spring-ioam-srv6
+[4]: https://tools.ietf.org/html/draft-ietf-ippm-ioam-data
+[5]: https://tools.ietf.org/html/draft-spiegel-ippm-ioam-rawexport
+[6]: https://tools.ietf.org/html/draft-weis-ippm-ioam-eth
+[7]: https://tools.ietf.org/html/draft-ietf-ippm-stamp
+[8]: https://tools.ietf.org/html/draft-ietf-ippm-stamp-yang
+[9]: https://tools.ietf.org/html/draft-fioccola-ippm-multipoint-alt-mark
+[10]: https://tools.ietf.org/html/draft-kumar-ippm-ifa
+[11]: https://tools.ietf.org/html/draft-gandhi-spring-udp-pm
+[12]: https://tools.ietf.org/html/draft-gandhi-spring-sr-mpls-pm
+[13]: https://tools.ietf.org/html/draft-mizrahi-ippm-compact-alternate-marking
+[14]: https://tools.ietf.org/html/draft-fear-ippm-mpdm
+[15]: https://tools.ietf.org/html/draft-xiao-ippm-ioam-conf-state
+[16]: https://tools.ietf.org/html/draft-song-ippm-postcard-based-telemetry
+[17]: https://tools.ietf.org/html/draft-ali-spring-ioam-srv6
+[18]: https://tools.ietf.org/html/draft-zhou-ippm-enhanced-alternate-marking
+[19]: https://tools.ietf.org/html/draft-song-ippm-ioam-tunnel-mode
