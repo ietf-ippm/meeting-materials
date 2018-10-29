@@ -30,11 +30,12 @@
 | [draft-gandhi-spring-sr-mpls-pm][12]  |       |
 | [draft-mizrahi-ippm-compact-alternate-marking][13]         | T. Mizrahi  |
 | [draft-fear-ippm-mpdm][14]        | N. Elkins  |
-| [draft-xiao-ippm-ioam-conf-state][15]     | X. Min |
-| [draft-song-ippm-postcard-based-telemetry][16]     | H. Song |
-| [draft-ali-spring-ioam-srv6][17]     | Z. Ali |
-| [draft-zhou-ippm-enhanced-alternate-marking][18] &    | T. Zhou |
-| [draft-song-ippm-ioam-tunnel-mode][19] |       |
+| [draft-mirsky-ippm-hybrid-two-step][15]         | G. Mirsky  |
+| [draft-xiao-ippm-ioam-conf-state][16]     | X. Min |
+| [draft-song-ippm-postcard-based-telemetry][17]     | H. Song |
+| [draft-ali-spring-ioam-srv6][18]     | Z. Ali |
+| [draft-zhou-ippm-enhanced-alternate-marking][19] &    | T. Zhou |
+| [draft-song-ippm-ioam-tunnel-mode][20] |       |
 
 [1]: https://tools.ietf.org/html/draft-ietf-ippm-metric-registry
 [2]: https://tools.ietf.org/html/draft-ietf-ippm-initial-registry
@@ -50,8 +51,9 @@
 [12]: https://tools.ietf.org/html/draft-gandhi-spring-sr-mpls-pm
 [13]: https://tools.ietf.org/html/draft-mizrahi-ippm-compact-alternate-marking
 [14]: https://tools.ietf.org/html/draft-fear-ippm-mpdm
-[15]: https://tools.ietf.org/html/draft-xiao-ippm-ioam-conf-state
-[16]: https://tools.ietf.org/html/draft-song-ippm-postcard-based-telemetry
-[17]: https://tools.ietf.org/html/draft-ali-spring-ioam-srv6
-[18]: https://tools.ietf.org/html/draft-zhou-ippm-enhanced-alternate-marking
-[19]: https://tools.ietf.org/html/draft-song-ippm-ioam-tunnel-mode
+[15]: https://tools.ietf.org/html/draft-mirsky-ippm-hybrid-two-step
+[16]: https://tools.ietf.org/html/draft-xiao-ippm-ioam-conf-state
+[17]: https://tools.ietf.org/html/draft-song-ippm-postcard-based-telemetry
+[18]: https://tools.ietf.org/html/draft-ali-spring-ioam-srv6
+[19]: https://tools.ietf.org/html/draft-zhou-ippm-enhanced-alternate-marking
+[20]: https://tools.ietf.org/html/draft-song-ippm-ioam-tunnel-mode
