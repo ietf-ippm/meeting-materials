@@ -9,26 +9,35 @@
 | Time    | Length | What                                   | Who           |
 |---------|--------|----------------------------------------|---------------|
 | 9:00   | 5m    | Welcome, Note Well, Agenda, Status     | Chairs        |
-| 9:05   | 5m    | Update on Last Call for [draft-ietf-ippm-stamp][1]     | Chairs        |
-| 9:10   | 5m    | Update on [draft-ietf-ippm-stamp-yang][2]     | Chairs        |
-| 9:15   | 30m    | Metrics Registry Discussion      | A. Morton        |
-|         |        | [draft-ietf-ippm-metric-registry][3] & |      |
-|         |        | [draft-ietf-ippm-initial-registry][4]  |       |
-| 9:45   | 10m    | [draft-ietf-ippm-route][5]     | A. Morton        |
-| 9:55   | 10m    | [draft-ietf-ippm-multipoint-alt-mark][6]     | G. Fioccola        |
-| 10:05   | 5m    | [draft-cfb-ippm-spinbit-new-measurements][7]     | M. Cociglio        |
-| 10:10   | 5m    | [draft-zhou-ippm-enhanced-alternate-marking][8]    | T. Zhou        |
-| 10:15   | 40m    | IOAM Discussion    | F. Brokners        |
-|         |        | [draft-ietf-ippm-ioam-data][9]  |       |
-| 10:55   | 5m    | [draft-song-opsawg-ifit-framework][10]    | H. Song        |
+| 9:05   | 5m    | Update on Last Call for [draft-ietf-ippm-stamp][1] &    | Chairs        |
+|         |        |  update on [draft-ietf-ippm-stamp-yang][2]     |         |
+| 9:10   | 5m    | [draft-ietf-ippm-route][3]     | A. Morton        |
+| 9:15   | 25m    | Metrics Registry Discussion      | A. Morton        |
+|         |        | [draft-ietf-ippm-metric-registry][4] & |      |
+|         |        | [draft-ietf-ippm-initial-registry][5]  |       |
+| 9:40   | 40m    | IOAM Discussion    | F. Brokners        |
+|         |        | [draft-ietf-ippm-ioam-data][6]  |       |
+| 10:20   | 5m    | [draft-ietf-ippm-multipoint-alt-mark][7]     | G. Fioccola        |
+| 10:25   | 5m    | [draft-cfb-ippm-spinbit-new-measurements][8]     | M. Cociglio        |
+| 10:30   | 5m    | [draft-zhou-ippm-enhanced-alternate-marking][9]    | T. Zhou        |
+| 10:35   | 5m    | [draft-mizrahi-ippm-compact-alternate-marking][10]    | T. Mizrahi        |
+| 10:40   | 5m    | [draft-mirsky-ippm-stamp-option-tlv][11]    | G. Mirsky        |
+| 10:45   | 5m    | [draft-kumar-ippm-ifa][13]    | J. Kumar        |
+| 10:50   | 5m    | [draft-gandhi-spring-twamp-srpm][12]    | R. Gandhi        |
+| 10:55   | 5m    | [draft-song-opsawg-ifit-framework][14]    | H. Song        |
+
 
 [1]: https://tools.ietf.org/html/draft-ietf-ippm-stamp
 [2]: https://tools.ietf.org/html/draft-ietf-ippm-stamp-yang
-[3]: https://tools.ietf.org/html/draft-ietf-ippm-metric-registry
-[4]: https://tools.ietf.org/html/draft-ietf-ippm-initial-registry
-[5]: https://tools.ietf.org/html/draft-ietf-ippm-route
-[6]: https://tools.ietf.org/html/draft-ietf-ippm-multipoint-alt-mark
-[7]: https://tools.ietf.org/html/draft-cfb-ippm-spinbit-new-measurements
-[8]: https://tools.ietf.org/html/draft-zhou-ippm-enhanced-alternate-marking
-[9]: https://tools.ietf.org/html/draft-ietf-ippm-ioam-data
-[10]: https://tools.ietf.org/html/draft-song-opsawg-ifit-framework
+[3]: https://tools.ietf.org/html/draft-ietf-ippm-route
+[4]: https://tools.ietf.org/html/draft-ietf-ippm-metric-registry
+[5]: https://tools.ietf.org/html/draft-ietf-ippm-initial-registry
+[6]: https://tools.ietf.org/html/draft-ietf-ippm-ioam-data
+[7]: https://tools.ietf.org/html/draft-ietf-ippm-multipoint-alt-mark
+[8]: https://tools.ietf.org/html/draft-cfb-ippm-spinbit-new-measurements
+[9]: https://tools.ietf.org/html/draft-zhou-ippm-enhanced-alternate-marking
+[10]: https://tools.ietf.org/html/draft-mizrahi-ippm-compact-alternate-marking
+[11]: https://tools.ietf.org/html/draft-mirsky-ippm-stamp-option-tlv
+[12]: https://tools.ietf.org/html/draft-kumar-ippm-ifa
+[13]: https://tools.ietf.org/html/draft-gandhi-spring-twamp-srpm
+[14]: https://tools.ietf.org/html/draft-song-opsawg-ifit-framework
