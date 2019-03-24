@@ -17,7 +17,7 @@
 |         |       | [draft-ietf-ippm-initial-registry][5]  |       |
 | 9:40    | 40m   | IOAM Discussion    | F. Brockners        |
 |         |       | [draft-ietf-ippm-ioam-data][6]  |       |
-| 10:20   | 20m   | Alternate Marking aand Related Work |   |
+| 10:20   | 20m   | Alternate Marking and Related Work |   |
 |         | 5m    | [draft-ietf-ippm-multipoint-alt-mark][7]     | G. Fioccola        |
 |         | 5m    | [draft-cfb-ippm-spinbit-new-measurements][8]     | M. Cociglio        |
 |         | 5m    | [draft-zhou-ippm-enhanced-alternate-marking][9]    | T. Zhou        |
