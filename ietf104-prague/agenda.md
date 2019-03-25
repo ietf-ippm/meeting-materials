@@ -28,8 +28,8 @@
 | Time    | Length | What                                   | Who           |
 |---------|--------|----------------------------------------|---------------|
 | 10:40   | 5m    | [draft-mirsky-ippm-stamp-option-tlv][11]    | G. Mirsky        |
-| 10:45   | 5m    | [draft-kumar-ippm-ifa][13]    | J. Kumar        |
-| 10:50   | 5m    | [draft-gandhi-spring-twamp-srpm][12]    | R. Gandhi        |
+| 10:45   | 5m    | [draft-kumar-ippm-ifa][12]    | J. Kumar        |
+| 10:50   | 5m    | [draft-gandhi-spring-twamp-srpm][13]    | R. Gandhi        |
 | 10:55   | 5m    | [draft-song-opsawg-ifit-framework][14]    | H. Song        |
 
 
