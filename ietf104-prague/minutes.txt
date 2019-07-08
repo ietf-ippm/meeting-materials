@@ -1,0 +1,103 @@
+
+9:00  10m  Welcome, Note Well,  Agenda, Status  Chairs        
+Last Call  for draft-ietf-ippm-stamp &  
+Update  on draft-ietf-ippm-stamp-yang 
+Last call done!    
+Tal to shepherd  draft-ietf-ippm-stamp-yang         
+
+ 9:10  5m  draft-ietf-ippm-route  A. Morton    
+Presentation:  https://datatracker.ietf.org/meeting/104/materials/slides-104-ippm-advanced-unidirectional-route-assessment-aura-draft-amf-ippm-route-00
+Reviewers who volunteered - Frank Brockners, Footer          
+
+9:15  25m  Metrics Registry  Discussion  A. Morton        draft-ietf-ippm-metric-registry &          draft-ietf-ippm-initial-registry     
+Presentation:  https://datatracker.ietf.org/meeting/104/materials/slides-104-ippm-initial-performance-metric-registry-entries-draft-ietf-ippm-initial-registry-00  
+    Mirja Kühlewind : Why RFC number in the Name of the metric? Metric  unchanged in a new updated RFC what would happen? 
+    Al: Will revisit and clarify on mailer
+    Tommy: New metrics are confined to RFCs, any change to metrics in a new RFC  will fate share with the metric definition
+    Al: slide 10 : question to the wg: are all the 3 name, id, URI needed?  Possibly not.
+    Brian T: (as an Individual) 16 bit integers why not unbounded int  type?
+    Al: It was inherited from LMAP. 
+    Brian T/Al: 32 bit integer would work.
+    Al: Opinions on getting rid of URN?
+    Brian T: Yes for getting rid of URN as a shepherd.
+    Chairs: last call on metric registry....done!         
+
+9:40  40m  IOAM Discussion  F. Brockners        draft-ietf-ippm-ioam-data     
+Presenation:https://datatracker.ietf.org/meeting/104/materials/slides-104-ippm-ioam-related-02
+    Comments on editorial updates and active flag:
+    Greg  M– regarding the editorials,  the draft specify out of scope context, shouldn’t specify protocol behavior.  Will be discussed in side meetings
+    Greg M– repeated for the active flag
+    Brian T – active – need to make sure that we treat it well, since this is  an active measurement which may raise some concerns
+    Mirja Kühlewind – need to consider also congestion for active measurement.  Suggest to add another document to discuss and specify the behavior of  it
+    Igor Lubashev – the active intoduce amplification attacks and other security issues since duplication may  arrise. 
+    Barak – this is only for drop/decapsulate not to generate packets. 
+    
+    Comments on Immediate export flag: 
+    Haoyu Song: This is similar to PBT draft. A bit is not sufficient.  Correlation at the collector is harder, E2E sequence number is not  sufficient. 
+    Barak: Defer to side meetings (6:30 pm side meetings)
+    Frank: Should export at some of the nodes but not all the nodes be  considered? e.g. when a node notices that there is space running out, export  when it is found to be full?
+    Brian T: Safety envelop for not letting this feature create a blast of  exports.
+    
+    Encapsulation drafts, Export, Yang model, Tools and additional options (1  min per encap presentation)
+    Discussion on class of drafts to be adopted in IPPM:
+    Brian T: Decision to be made here is there a different home or the work  need to be done in IPPM?: v6 has a precedency with PDM options worked at IPPM  in collaboration 6man.
+    
+    Mirja Kühlewind: Merge the drafts options and deployment consideration  draft
+    Frank B: deployment consideration is expected to be generic across other  HbH and dest options added.
+    Mirja Kühlewind: As the AD: present it to 6man and not considered adoption  in ippm la
+    Brian T: Ether type - not sure of ippm being the right place, perhaps int  area or AD sponsored . AI on Brian T to find what can be done with ether-type  for encap.
+    Mirja Kühlewind: Should have usecase and deployment scenarios and  concentrate on a subset of encaps. 
+    Brian T: Ether type and v6 may be high impact
+    Briant T: No to IPv4 options, IESG recommendation
+    Brian T: spring ioam SRv6, has been presented in Spring, can it be a  home?
+    Rakesh Gandhi: Not presented in Spring wg yet. 
+    Greg M: MPLS, Spring better home for mpls, spring ioam work
+    Greg M: On SRv6 - v6 should be done in 6man, adopt it in 6man. 
+    Brian T: Options 6man recommends getting it reviewed at 6man and work done  in wg proposing the usecase for options. e.g. PDM options
+    Greg M: Preferrs v6 expertise in 6man to progress v6 work
+    Rake 
+    Mirja Kühlewind: v6 charter text - present it there, if they want to adopt  do it. 
+    Dang Juanna: 
+    Brian T: discuss on list
+    Gorry F: Avoid conflicts with 6man,
+    Gorry F: Do not rule out usefullness of extension  header, especially useful in constrained environments
+    
+    Conclusion on encap:
+    Brian T: IOAM architecture: IOAM methods, data model and encaps and  interaction b/n encaps : prioritize and plan for getting it through IETF -  Ether type and v6 seem to be highest impact for encapsulating IOAM. 
+    
+    Mirja Kühlewind: What are the  hardware implementations moving forward with?
+    Jai Kumar: as a hardware vendor, its a nightmare in implementing it in  hardware.
+    Barak : mellanox also a hardware vendor, interested in v4, v6, vxlan,  
+    Rajiv Asati: As a 6man active member prefers v6 options for IOAM to be done  in IPPM as long as it doesnt change v6 protocol semantics
+    Greg Mirsky: hardware early adopters need to deal with unstable drafts.  
+    Jai Kumar: Flags are in the data header that impact the forwarding  behaviour, those should go in the protocol.
+    
+    Tommy: Summarize and notes of side discussion to the list. Ether type AI of  Brian, v6 after presenting it at 6man - follow up on the list after that.  
+    Frank B: priority list of encap protocols in side meetings
+    Tommy: On the flags - separate the flag discussion into separate drafts and  then fold it into the data draft based on WG consensus.
+    Frank B: what about other categories?
+    Brian T: Opsawg for Export. If opsawg does not care come back to IPPM
+    Chairs: Pick priorities for what needs to be done
+    Jai Kumar: focus on data types.
+    
+
+ 10:20  20m  Alternate Marking  and Related Work                  
+              5m  draft-ietf-ippm-multipoint-alt-mark  G. Fioccola  
+              Presentation:  https://datatracker.ietf.org/meeting/104/materials/slides-104-ippm-draft-ietf-ippm-multipoint-alt-mark-01-00
+    
+                5m  draft-cfb-ippm-spinbit-new-measurements  M. Cociglio    
+                Presentation:  https://datatracker.ietf.org/meeting/104/materials/slides-104-ippm-draft-cfb-ippm-spinbit-new-measurements-00-00
+                Brian T:  Good work, there is discussion in QUIC on the usefulness of 2 bits for spin bit and the limited benefits it can provide over 1 spin bit. Is there interest to work on methologies like spin bit for other protocols? Will take it to the list.
+    
+                5m  draft-zhou-ippm-enhanced-alternate-marking  T. Zhou   
+                Presentation:  https://datatracker.ietf.org/meeting/104/materials/slides-104-ippm-enhanced-alternate-marking-method-00
+                
+                5m  draft-mizrahi-ippm-compact-alternate-marking  T. Mizrahi    
+                Presentation:https://datatracker.ietf.org/meeting/104/materials/slides-104-ippm-compact-alternate-marking-00       
+
+Additional drafts:
+    
+5m Greg M draft-mirksky-ippm-stamp-option-tlv-00
+Presentation:https://datatracker.ietf.org/meeting/104/materials/slides-104-ippm-simple-two-way-active-measurement-protocol-stamp-extensions-draft-mirsky-ippm-stamp-option-tlv-00
+Rakesh Gandhi: Direct loss TLV is missing. There is an alternate proposal as well.
+Greg M: Its there not published yet.
