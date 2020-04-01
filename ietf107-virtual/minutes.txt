@@ -1,0 +1,183 @@
+===============================
+IPPM Interim Virtual Meeting
+Wednesday, April 1, 2020
+15:00-16:30 UTC
+Meeting Minutes
+===============================
+
+WG chairs: Tommy Pauly, Ian Swett, Brian Trammell (outgoing), Bill Cerveny (outgoing)
+Meeting minutes: Tal Mizrahi
+
+
+Chair slides:
+-------------
+Slides: https://datatracker.ietf.org/meeting/interim-2020-ippm-01/materials/slides-interim-2020-ippm-01-sessa-01-ietf107-ippm-chair
+Presenter: Tommy Pauly
+
+Summary:
+- Note well was presented.
+- The agenda for the current session was presented.
+- Thanks to the outgoing chairs, Brian and Bill.
+- Martin Duke is our new responsible AD.
+- STAMP published as RFC 8762.
+- Two documents in RFC Editor's queue.
+- Agenda bashing: none.
+
+
+Metrics and Methods for IP Capacity
+-----------------------------------
+Slides: https://datatracker.ietf.org/meeting/interim-2020-ippm-01/materials/slides-interim-2020-ippm-01-sessa-capacity-metric-method
+Presenter: Al Morton
+
+Summary:
+- The draft defines IP layer capacity.
+- A lot of feedback was received.
+- Result reporting considerations have been added to the draft.
+- Hoping to reach consensus soon.
+- Looking for more people to review the draft.
+
+Discussion:
+- Tommy: looking for more comments and reviews on this.
+
+
+STAMP Option TLV
+----------------
+Slides: https://tools.ietf.org/html/draft-ietf-ippm-stamp-option-tlv
+Presenter: Greg Mirsky
+
+Summary:
+- A few updates in the draft, including the STAMP Session Identifier (SSID), HMAC TLV, and a description of the STAMP TLV processing.
+- The authors believe the document is ready for WG LC.
+
+Discussion:
+- Rakesh: the session ID causes all the available bits to be exhausted. There are no more bits left. If it is possible to have the SSID in a TLV that would be better.
+- Greg: we have 28 octets if we want to extend the base packet. The session reflector unauthenticated packet has three octets that are currently unassigned. There is still some space.
+- Rakesh: it is there, but the reflector has to copy this from one place to another.
+- Greg: right, but that is how STAMP operates. The reflector copies the sequence number and timestamp anyway. The format of the packets includes the information that the reflector puts, and then the information from the sender.
+- Rakesh: right, but there is no bit left when we have to copy.
+- Greg: the three octets at the end of the packet are not used in session sender and in session reflector packets. 
+- Rakesh: if we can use that please clarify this.
+- Greg: let's take it offline.
+- Martin: what is the use case for the SSID?
+- Greg: it allows you to control DSCP marking. It simplifies the session identification. Can be combined with 4-tuple to define a session, and simplify the operational procedure. Stateful and stateless STAMP flavors are defined; stateful runs its own sequence number, and the SSID can help to identify the session.
+
+
+IOAM
+----
+Slides: https://datatracker.ietf.org/meeting/interim-2020-ippm-01/materials/slides-interim-2020-ippm-01-sessa-ioam
+Presenters: Frank Brockners, Tal Mizrahi
+
+IOAM Data draft - summary:
+- Data draft: we went through WG LC. Authors believe that the comments were addressed.
+
+Discussion:
+- Tommy: are there any comments from the people who reviewed the document, and whether their comments were addressed?
+- Greg: I agree with the proposed timeline. I will need some time to review the updates. There are significant changes.
+- Mickey: I believe all my comments were addressed, and I agree that the draft should move forward.
+
+
+--
+IOAM IPv6 Options draft - summary:
+- Early allocation was kicked off.
+- The authors believe that the draft is ready for WG LC after the data draft.
+
+Discussion:
+- Tommy: that makes sense.
+- Haoyu: there is a new draft that suggests new options in IPv6 in an IOAM environment. I recommend to read the draft and provide comments.
+
+
+--
+IOAM Flag draft - summary:
+- The main open issues are about security (amplification attacks), and loopback on the reverse path.
+
+Discussion:
+Frank: regarding amplification I would like to ask Brian who raised some of these concerns: do you have any thoughts?
+Brian: I had a look at this, and it downgrades the concern we have, but I have to dig into it some more in order to analyze and make sure it is sufficient. We want to make sure all the devices on the path are trustworthy. It is a question of the threat model, and whether there are devices that can touch the flags. The current text in the draft is definitely improved.
+Frank: if you can find some more time to review it, that would be great.
+Tommy: if anyone else wants to analyze the threats here they are welcome.
+Martin: I will also take a look at this. Will definitely be an issue in IESG review. If the attacker has to send X bytes, you should not force the network to generate less than 3X bytes. Limiting to one data field sounds like a good direction.
+
+
+--
+IOAM Direct Export draft - summary:
+- The main open issue is regarding the hop count field - should we have an explicit hop count field, or rely on the Hop_Lim data field.
+
+Discussion:
+- Greg: another relevant draft is hybrid two-step. There may be potential synergy between DEX and the two-step approach. I suggest to discuss this on the design team.
+- Martin: how is loopback not a specific case of DEX?
+- Tal: the difference is that loopback is intended to be an improved Trace-Route, while DEX is intended to provide information to a collector. In DEX transit devices do not modify en route packets, while in loopback we do want transit devices to modify the packets and add data fields.
+- Brian: in DEX the target is a matter of configuration, while in loopback the target is taken from the packet itself.
+Tal: right.
+Brian: that makes it a bit less scary in terms of amplification attacks. The security considerations in this draft seem to do a good job, and I like the fact that the two drafts have similar approaches for the security considerations. I need to review it a bit more.
+Tommy: even if they are separate options, we may want to define them in a common place and define the differences between them.
+
+
+Connectivity Monitoring
+-----------------------
+Slides: https://datatracker.ietf.org/meeting/interim-2020-ippm-01/materials/slides-interim-2020-ippm-01-sessa-connectivity-monitoring
+Presenter: Ruediger Geib
+
+Summary:
+- The idea is to use segment routing for something like ping, but with more information.
+- Looking for feedback.
+
+Discussion:
+- Greg: correlating events requires synchronization, right?
+- Ruediger: right. A time frame of 10 ms requires a synchronization of 5 ms.
+
+
+Postcard-based Telemetry
+------------------------
+Slides: https://datatracker.ietf.org/meeting/interim-2020-ippm-01/materials/slides-interim-2020-ippm-01-sessa-postcard-based-telemetry
+Presenter: Haoyu Song
+
+Summary:
+- The draft has been around for a while.
+- Defines various flavors of postcard based telemetry.
+
+Discussion:
+- Tommy: thank you for your work in the design team to incorporate your work in the DEX draft. We would like to converge on documents, and we are happy with the convergence on the DEX draft. I do not see a need for this as a separate draft. If there are pieces of information that we want to add to the DEX draft that may make sense. If anyone in the group believes this should be a working group item please say so or indicate this on the mailing list.
+- A few "+1" notes on the Webex chat and jabber.
+- Haoyu: some of the functionality here is not covered in any other place.
+- Tommy: at this point we are not planning to adopt this.
+- Haoyu: perhaps there is a need to summarize the high level approaches. 
+- Tommy: we can add some of this to the DEX draft.
+
+
+Adjourned at 16:33 UTC.
+
+
+
+===========
+BLUE SHEET (note, peak participation in Webex was 38)
+Please write your name below if you attended this meeting:
+Tommy Pauly, Apple
+Martin Duke, F5 Networks
+Bill Cerveny, NETSCOUT
+Giuseppe Fioccola (Huawei)
+Xiao Min, ZTE
+Justin Iurman, University of Liege
+Greg Mirsky, ZTE
+Dhruv Dhody, Huawei-India
+Al Morton, AT&T Labs
+Warren Kumari, Google
+Magnus Westerlund, Ericsson
+Adrian Farrel, Old Dog Consulting
+Mirja Kühlewind, Ericsson
+Tal Mizrahi
+Haoyu Song, Futurewei
+Miao Fuyou, Huawei
+Frank Brockners, Cisco
+Brian Trammell, Google
+Mauro Cociglio, Telecom Italia-TIM
+Fabio Bulgarella, Telecom Italia-TIM
+Massimo Nilo, Telecom Italia-TIM
+Mike McBride, Futurewei
+Ramesh Sivakolundu, Cisco
+Shwetha Bhandari, Cisco
+Yunan Gu, Huawei
+Rakesh Gandhi Cisco
+Len Ciavattone, AT&T Labs
+Mickey Spiegel, Barefoot / Intel
+Gorry Fairhurst, University of Aberdeen, UK
+
