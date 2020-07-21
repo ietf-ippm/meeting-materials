@@ -37,6 +37,7 @@ Each talk is limited to 5 minutes.
 | [draft-zhou-ippm-enhanced-alternate-marking][12] | T. Zhou |
 | [draft-li-ippm-pm-on-lag][13] | Z. Li |
 | [draft-mirsky-ippm-epm][14] | G. Mirsky |
+| [draft-yang-ippm-ptp-measurement][15]  | C. Zhou |
 
 - - -
 
@@ -56,3 +57,4 @@ Each talk is limited to 5 minutes.
 [12]: https://tools.ietf.org/html/draft-zhou-ippm-enhanced-alternate-marking
 [13]: https://tools.ietf.org/html/draft-li-ippm-pm-on-lag
 [14]: https://tools.ietf.org/html/draft-mirsky-ippm-epm
+[15]: https://tools.ietf.org/html/draft-yang-ippm-ptp-measurement
