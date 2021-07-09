@@ -1,6 +1,6 @@
-*Session 1:*   Monday 8 March 2020, 14:30-15:30 UTC
+*Session 1:*   Monday 8 March 2021, 14:30-15:30 UTC
 
-*Session 2:*   Friday 12 March 2020, 16:00-18:00 UTC
+*Session 2:*   Friday 12 March 2021, 16:00-18:00 UTC
 
 *Where:*  [Meetecho][0]
 
