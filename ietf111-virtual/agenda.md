@@ -26,7 +26,7 @@ Individual drafts that have received list discussion and are candidates for adop
 |---------|--------|------------------------------------------------|---------------|
 | 12:50    | 5m    | [draft-xiao-ippm-ioam-conf-state][7] | X. Min    |
 | 12:55    | 10m    | [draft-mdt-ippm-explicit-flow-measurements][8] | M. Cociglio    |
-| 12:55    | 10m    | [draft-mirsky-ippm-hybrid-two-step][9] | G. Mirsky    |
+| 13:05    | 10m    | [draft-mirsky-ippm-hybrid-two-step][9] | G. Mirsky    |
 
 ## Lightning Talks
 Each talk is limited to 5 minutes.
