@@ -42,6 +42,7 @@ Each talk is limited to 1 slide.
 | [draft-song-ippm-postcard-based-telemetry][17] | H. Song |
 | [draft-elkins-ippm-encrypted-pdmv2][18] | N. Elkins |
 | [draft-cnbf-ippm-user-devices-explicit-monitoring][19] | M. Cociglio |
+| [draft-csfx-ippm-hipmetrics][20] | A. Clemm |
 
 
 - - -
@@ -67,5 +68,6 @@ Each talk is limited to 1 slide.
 [17]: https://datatracker.ietf.org/doc/draft-song-ippm-postcard-based-telemetry/
 [18]: https://datatracker.ietf.org/doc/draft-elkins-ippm-encrypted-pdmv2/
 [19]: https://datatracker.ietf.org/doc/draft-cnbf-ippm-user-devices-explicit-monitoring/
+[20]: https://datatracker.ietf.org/doc/draft-csfx-ippm-hipmetrics/
 
 
