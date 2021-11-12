@@ -62,7 +62,7 @@ Mauro: yes. It's possible to add timing in many ways, we suggest a fixed value f
 
 ### draft-ietf-ippm-connectivity-monitoring
 
-Greg Mirsky: When we are referring to something as a connection, it is not only the ability the ability to receive packets for this connection but the ability not to to receive packets not for this connection. With MPLS, we usually refer to the loss of path continuity. The term is BFD (bidirectional forwarding detection). Loss is declared on 3 consecutive lost packets. There is a good reason for 3. Not only similar to ??? but it provides stability/ I'm concerned about loss declaration on 1 packet. Does the next packet after it mark the connection as up? That's bouncy. That could cause a lot of confusion. Maybe something that need discussion, related to fault management OAM.
+Greg Mirsky: When we are referring to something as a connection, it is not only the ability the ability to receive packets for this connection but the ability not to to receive packets not for this connection. With MPLS, we usually refer to the loss of path continuity. The term is BFD (bidirectional forwarding detection). Loss is declared on 3 consecutive lost packets. There is a good reason for 3. Not only similar to ??? but it provides stability. I'm concerned about loss declaration on 1 packet. Does the next packet after it mark the connection as up? That's bouncy. That could cause a lot of confusion. Maybe something that need discussion, related to fault management OAM.
 
 Redinger Geib: Not a BFD expert. Slide 2 shows how 3 packets and sent/received over a timeline
 
@@ -112,23 +112,32 @@ Tommy: please take it to the chat or the list
 
 *Each talk is limited to 1 slide.*
 
-draft-li-ippm-ref-delay-measurement
-draft-li-ippm-deterministic-owd-measurement	
-draft-zhou-ippm-enhanced-alternate-marking
+#### draft-li-ippm-ref-delay-measurement
 
-draft-mizrahi-ippm-ioam-linux-profile
+#### draft-li-ippm-deterministic-owd-measurement	
+
+#### draft-zhou-ippm-enhanced-alternate-marking
+
+#### draft-mizrahi-ippm-ioam-linux-profile
+
 Tommy: Is this maybe ops more than the thing we normally do? Something to discuss
 
-draft-hwyh-ippm-ps-inband-flow-learning
-draft-gandhi-ippm-simple-direct-loss
-draft-du-ippm-self-contained-alt-mark
+#### draft-hwyh-ippm-ps-inband-flow-learning
 
-draft-song-ippm-postcard-based-telemetry
+#### draft-gandhi-ippm-simple-direct-loss
+
+#### draft-du-ippm-self-contained-alt-mark
+
+#### draft-song-ippm-postcard-based-telemetry
+
 Tommy: ??? we should discuss on the list
 
-draft-elkins-ippm-encrypted-pdmv2
-draft-cnbf-ippm-user-devices-explicit-
+#### draft-elkins-ippm-encrypted-pdmv2
 
-draft-csfx-ippm-hipmetrics
+#### draft-cnbf-ippm-user-devices-explicit-
+
+#### draft-csfx-ippm-hipmetrics
+
 Greg Mirsky: Wonder how this is different from EPM? let's discuss on the list
+
 Tommy: maybe folks can combine efforts here, please discuss
