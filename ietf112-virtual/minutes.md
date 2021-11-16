@@ -130,7 +130,7 @@ Tommy: Is this maybe ops more than the thing we normally do? Something to discus
 
 #### draft-song-ippm-postcard-based-telemetry
 
-Tommy: ??? we should discuss on the list
+Tommy: Can we reconcile this more with IOAM methods? We should discuss on the list
 
 #### draft-elkins-ippm-encrypted-pdmv2
 
