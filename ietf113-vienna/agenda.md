@@ -1,6 +1,6 @@
 *When*   Monday 21 March 2022, 10:00-12:00 UTC+1
 
-*Where:*  Park Suite 2, http://www.meetecho.com/ietf113/ippm/
+*Where:*  Park Suite 3, http://www.meetecho.com/ietf113/ippm/
 
 *Chairs:* Tommy Pauly & Marcus Ihlar
 
@@ -8,15 +8,15 @@
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
-| 14:30   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
-| 14:35   | 10m    | draft-ietf-ippm-capacity-protocol           | A. Morton    |
-| 14:45   | 20m    | draft-ietf-ippm-responsiveness              | C. Paasch    |
-| 15:05   | 15m    | draft-ietf-ippm-ioam-conf-state             | G. Mirsky    |
-| 15:20   | 15m    | draft-ietf-ippm-ioam-data-integrity         | F. Brockners |
+| 10:00   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
+| 10:05   | 10m    | draft-ietf-ippm-capacity-protocol           | A. Morton    |
+| 10:15   | 20m    | draft-ietf-ippm-responsiveness              | C. Paasch    |
+| 10:35   | 15m    | draft-ietf-ippm-ioam-conf-state             | G. Mirsky    |
+| 10:50   | 15m    | draft-ietf-ippm-ioam-data-integrity         | F. Brockners |
 |         |        | draft-ietf-ippm-ioam-deployment             |              |
-| 15:35   | 5m     | draft-ietf-ippm-ioam-yang                   | T. Zhou      |
-| 15:40   | 10m    | draft-ietf-ippm-explicit-flow-measurements  | M. Cociglio  |
-| 15:50   | 5m     | draft-ietf-ippm-stamp-srpm                  | R. Gandhi    |
+| 11:05   | 5m     | draft-ietf-ippm-ioam-yang                   | T. Zhou      |
+| 11:10   | 10m    | draft-ietf-ippm-explicit-flow-measurements  | M. Cociglio  |
+| 11:20   | 5m     | draft-ietf-ippm-stamp-srpm                  | R. Gandhi    |
 
 
 # Proposed Work
@@ -25,9 +25,9 @@ Individual drafts that have received list discussion and are candidates for adop
 
 | Time    | Length | What                                           | Who           |
 |---------|--------|------------------------------------------------|---------------|
-| 15:55   | 10m    | draft-elkins-ippm-encrypted-pdmv2              | N. Elkins     |
-| 16:05   | 10m    | draft-mirsky-ippm-hybrid-two-step              | G. Mirsky     |
-| 16:15   | 10m    | draft-li-ippm-otwamp-on-lag                    | Z. Li         |
-| 16:25   | 5m     | draft-weis-ippm-ioam-eth                       | F. Brockners  |
+| 11:25   | 10m    | draft-elkins-ippm-encrypted-pdmv2              | N. Elkins     |
+| 11:35   | 10m    | draft-mirsky-ippm-hybrid-two-step              | G. Mirsky     |
+| 11:45   | 10m    | draft-li-ippm-otwamp-on-lag                    | Z. Li         |
+| 11:55   | 5m     | draft-weis-ippm-ioam-eth                       | F. Brockners  |
 |         |        | draft-spiegel-ippm-ioam-rawexport              |               |
 
