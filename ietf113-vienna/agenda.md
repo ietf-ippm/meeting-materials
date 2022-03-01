@@ -1,4 +1,4 @@
-*When*   Wednesday 23 March 2022, 14:30-16:30 UTC+1
+*When*   Monday 21 March 2022, 10:00-12:00 UTC+1
 
 *Where:*  Park Suite 2, http://www.meetecho.com/ietf113/ippm/
 
