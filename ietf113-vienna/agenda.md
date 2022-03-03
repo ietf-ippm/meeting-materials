@@ -11,7 +11,7 @@
 | 10:00   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
 | 10:05   | 10m    | draft-ietf-ippm-capacity-protocol           | A. Morton    |
 | 10:15   | 20m    | draft-ietf-ippm-responsiveness              | C. Paasch    |
-| 10:35   | 15m    | draft-ietf-ippm-ioam-conf-state             | G. Mirsky    |
+| 10:35   | 15m    | draft-ietf-ippm-ioam-conf-state             | X. Min       |
 | 10:50   | 15m    | draft-ietf-ippm-ioam-data-integrity         | F. Brockners |
 |         |        | draft-ietf-ippm-ioam-deployment             |              |
 | 11:05   | 5m     | draft-ietf-ippm-ioam-yang                   | T. Zhou      |
