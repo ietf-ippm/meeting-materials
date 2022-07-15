@@ -10,14 +10,14 @@
 |---------|--------|---------------------------------------------|--------------|
 | 12:30   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
 | 12:35   | 15m    | draft-ietf-ippm-ioam-data-integrity         | J. Iurman    |
+|         |        | draft-ietf-ippm-ioam-deployment             | T. Mizrahi   |
 | 12:50   | 5m     | draft-ietf-ippm-ioam-yang                   | T. Zhou      |
-| 12:55   | 5m     | draft-ietf-ippm-ioam-deployment             | T. Mizrahi   |
-| 13:00   | 5m     | draft-ietf-ippm-stamp-yang                  | G. Mirsky    |
-| 13:05   | 5m     | draft-ietf-ippm-stamp-srpm                  | R. Gandhi    |
-| 13:10   | 20m    | draft-ietf-ippm-capacity-protocol           | A. Morton    |
-| 13:30   | 10m    | draft-ietf-ippm-explicit-flow-measurements  | M. Cociglio  |
-| 13:40   | 20m    | draft-ietf-ippm-responsiveness              | C. Paasch    |
-| 14:00   | 20m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
+| 12:55   | 5m     | draft-ietf-ippm-stamp-yang                  | G. Mirsky    |
+| 13:00   | 5m     | draft-ietf-ippm-stamp-srpm                  | R. Gandhi    |
+| 13:05   | 20m    | draft-ietf-ippm-capacity-protocol           | A. Morton    |
+| 13:25   | 10m    | draft-ietf-ippm-explicit-flow-measurements  | M. Cociglio  |
+| 13:35   | 20m    | draft-ietf-ippm-responsiveness              | C. Paasch    |
+| 13:55   | 20m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
 
 # Proposed Work
 
@@ -25,4 +25,4 @@ Individual drafts that have received list discussion and are candidates for adop
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
-| 14:20   | 10m    | draft-mhmcsfh-ippm-pam                      | G. Mirsky    |
+| 14:15   | 10m    | draft-mhmcsfh-ippm-pam                      | G. Mirsky    |
