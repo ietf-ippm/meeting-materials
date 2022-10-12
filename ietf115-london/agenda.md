@@ -9,7 +9,7 @@
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
 | 09:30   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
-| 09:35   | 15m    | draft-ietf-ippm-stamp-on-lag                | ???          |
+| 09:35   | 15m    | draft-ietf-ippm-stamp-on-lag                | T. Zhou      |
 |         |        | draft-ietf-ippm-otwamp-on-lag               |              |
 | 09:50   | 15m    | draft-ietf-ippm-capacity-protocol           | A. Morton    |
 | 10:05   | 15m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
