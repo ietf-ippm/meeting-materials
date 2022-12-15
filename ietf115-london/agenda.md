@@ -1,6 +1,6 @@
 *When*   Monday 7 November 2022, 9:30-11:30 GMT
 
-*Where:*  Mezzanine 1-4, https://meetings.conf.meetecho.com/ietf115/?group=ippm
+*Where:*  Mezzanine 1-4, [https://meetings.conf.meetecho.com/ietf115/?group=ippm]()
 
 *Chairs:* Tommy Pauly & Marcus Ihlar
 

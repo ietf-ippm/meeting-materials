@@ -1,4 +1,34 @@
+:root {
+  color-scheme: light dark;
+  --background-color: #ffffff; /* white background */
+}
+@media (prefers-color-scheme: light) {
+  :root {
+      --background-color: #ffffff; /* white background */
+  }
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+      --background-color: #000000; /* black background */
+  }
+}
 body {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;}
 table {border-collapse: collapse; width: 80%;}
-td, th {border: 1px solid #ddd; padding: 8px;}
-tr:nth-child(even){background-color: #f2f2f2;}
+@media (prefers-color-scheme: light) {
+    td, th {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+    tr:nth-child(even){
+        background-color: #f2f2f2;
+    }
+}
+@media (prefers-color-scheme: dark) {
+    td, th {
+        border: 1px solid #444;
+        padding: 8px;
+    }
+    tr:nth-child(even){
+        background-color: #2f2f2f;
+    }
+}
