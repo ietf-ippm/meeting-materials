@@ -25,9 +25,9 @@
 
 | What                                        | Who          |
 |---------------------------------------------|--------------|
-draft-mzbc-ippm-transit-measurement-option
-draft-wang-ippm-alt-mark-yang
-draft-song-ippm-postcard-based-telemetry
-draft-ahuang-ippm-dex-timestamp-ext
-draft-ahuang-ippm-ioam-on-path-delay
-draft-ietf-opsawg-ipfix-on-path-telemetry
+| draft-mzbc-ippm-transit-measurement-option  | T. Mizrahi   |
+| draft-wang-ippm-alt-mark-yang               | X. Min       |
+| draft-song-ippm-postcard-based-telemetry    | H. Song      |
+| draft-ahuang-ippm-dex-timestamp-ext         | A. Huang-Feng |
+| draft-ahuang-ippm-ioam-on-path-delay        | A. Huang-Feng |
+| draft-ietf-opsawg-ipfix-on-path-telemetry   | T. Graf      |
