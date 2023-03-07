@@ -27,6 +27,8 @@
 |---------------------------------------------|--------------|
 | draft-mzbc-ippm-transit-measurement-option  | T. Mizrahi   |
 | draft-wang-ippm-alt-mark-yang               | X. Min       |
+| draft-teigen-ippm-app-quality-metric-reqs   | B. Teigen    |
+| draft-olden-ippm-qoo                        | B. Teigen    |
 | draft-song-ippm-postcard-based-telemetry    | H. Song      |
 | draft-ahuang-ippm-dex-timestamp-ext         | A. Huang-Feng |
 | draft-ahuang-ippm-ioam-on-path-delay        | A. Huang-Feng |
