@@ -11,12 +11,13 @@
 | 09:30   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
 | 09:35   | 20m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
 | 09:55   | 15m    | draft-ietf-ippm-capacity-protocol           | A. Morton    |
-| 10:10   | 15m    | draft-ietf-ippm-pam                         | G. Mirsky    |
-| 10:25   | 10m    | draft-ietf-ippm-stamp-on-lag                | T. Zhou      |
+| 10:10   | 10m    | draft-ietf-ippm-pam                         | G. Mirsky    |
+| 10:20   | 10m    | draft-ietf-ippm-stamp-on-lag                | T. Zhou      |
 |         |        | draft-ietf-ippm-otwamp-on-lag               |              |
-| 10:35   | 10m    | draft-ietf-ippm-responsiveness              | C. Paasch    |
-| 10:45   | 10m    | draft-ietf-ippm-ioam-data-integrity         | J. Iurman    |
-| 10:55   | 10m    | draft-ietf-ippm-ioam-yang                   | T. Zhou      |
+| 10:30   | 10m    | draft-ietf-ippm-responsiveness              | C. Paasch    |
+| 10:40   | 10m    | draft-ietf-ippm-ioam-data-integrity         | J. Iurman    |
+| 10:50   | 10m    | draft-ietf-ippm-ioam-yang                   | T. Zhou      |
+| 11:00   | 10m    | draft-ietf-ippm-stamp-yang                  | G. Mirsky    |
 
 
 # Lightning Talks
