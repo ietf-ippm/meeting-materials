@@ -34,3 +34,4 @@
 | draft-ahuang-ippm-dex-timestamp-ext         | A. Huang-Feng |
 | draft-ahuang-ippm-ioam-on-path-delay        | A. Huang-Feng |
 | draft-ietf-opsawg-ipfix-on-path-telemetry   | T. Graf      |
+| draft-zhou-ippm-enhanced-alternate-marking  | G. Fioccola  |
