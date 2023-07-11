@@ -29,5 +29,7 @@ Individual drafts that have recent on-list discussion.
 
 | What                                        | Who          |
 |---------------------------------------------|--------------|
-| draft-wang-ippm-stamp-hbh-extensions        | G. Fioccola  |
 | draft-fz-ippm-alt-mark-deployment           | G. Fioccola  |
+| draft-wang-ippm-stamp-hbh-extensions        | G. Fioccola  |
+| draft-wang-ippm-ipv6-flow-measurement       | H. Wang      |
+| draft-wang-ippm-ipv6-distributed-flow-measurement | H. Wang |
