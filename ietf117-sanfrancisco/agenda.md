@@ -1,4 +1,4 @@
-*When*   Monday 24 July 2023, 13:00-15:00 GMT
+*When*   Monday 24 July 2023, 13:00-15:00 PDT
 
 *Where:*  Golden Gate 6, https://meetings.conf.meetecho.com/ietf117/?group=ippm
 
