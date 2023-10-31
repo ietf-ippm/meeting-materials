@@ -11,9 +11,9 @@
 | 13:00   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
 | 13:05   | 5m     | draft-ietf-ippm-hybrid-two-step             | G. Mirsky    |
 | 13:10   | 15m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
-| 13:25   | 10m    | draft-ietf-ippm-ioam-data-integrity         | J. Iurman    |
-| 13:35   | 10m    | draft-ietf-ippm-responsiveness              | C. Paasch    |
-| 13:45   | 5m     | draft-ietf-ippm-stamp-yang                  | G. Mirsky    |
+| 13:25   | 5m     | draft-ietf-ippm-ioam-data-integrity          | J. Iurman    |
+| 13:30   | 10m    | draft-ietf-ippm-responsiveness              | C. Paasch    |
+| 13:40   | 5m     | draft-ietf-ippm-stamp-yang                  | G. Mirsky    |
 
 # Proposed Work
 
@@ -21,12 +21,12 @@ Individual drafts that have recent on-list discussion.
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
-| 13:50   | 10m    | draft-gandhi-ippm-stamp-ioam                | R. Gandhi    |
-| 14:00   | 10m    | draft-wang-ippm-stamp-hbh-extensions        | T. Zhou      |
-| 14:10   | 15m    | draft-olden-ippm-qoo                        | B. Tiegen    |
+| 13:45   | 10m    | draft-gandhi-ippm-stamp-ioam                | R. Gandhi    |
+| 13:55   | 10m    | draft-wang-ippm-stamp-hbh-extensions        | T. Zhou      |
+| 14:05   | 15m    | draft-olden-ippm-qoo                        | B. Tiegen    |
 |         |        | draft-teigen-ippm-app-quality-metric-reqs   |              |
-| 14:25   | 10m    | draft-fz-ippm-alt-mark-deployment           | G. Fioccola  |
-| 14:35   | 10m    | draft-mirsky-ippm-asymmetrical-pkts         | G. Mirsky    |
+| 14:20   | 10m    | draft-fz-ippm-alt-mark-deployment           | G. Fioccola  |
+| 14:30   | 10m    | draft-mirsky-ippm-asymmetrical-pkts         | G. Mirsky    |
 
 # Lightning Talks
 
@@ -36,3 +36,4 @@ Individual drafts that have recent on-list discussion.
 | draft-gfz-ippm-alt-mark-yang                | G. Fioccola  |
 | draft-cxx-ippm-iomaggr                      | A. Clemm     |
 | draft-clemm-opsawg-pam-ipfix                | A. Clemm     |
+| draft-filsfils-spring-path-tracing          | A. Abdelsalam  |
