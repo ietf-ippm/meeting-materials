@@ -30,3 +30,9 @@ Individual drafts that have recent on-list discussion.
 
 | What                                        | Who          |
 |---------------------------------------------|--------------|
+| draft-zhang-ippm-ioam-mp                    | L. Zhang     |
+| draft-ydt-ippm-alt-mark-yang                | G. Fioccola  |
+| draft-he-ippm-integrating-am-into-ioam      | X. He        |
+| draft-he-ippm-extensions-incorporating-am   | X. He        |
+| draft-hz-ippm-cei                           | H. Huang     |
+| draft-song-ippm-ioam-ipv6-support           | H. Song      |
