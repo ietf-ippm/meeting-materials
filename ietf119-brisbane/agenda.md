@@ -22,7 +22,7 @@ Individual drafts that have recent on-list discussion.
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
-| 11:00   | 10m    | draft-gandhi-ippm-stamp-ioam                | R. Gandhi    |
+| 11:00   | 10m    | draft-gandhi-ippm-stamp-ext-hdr             | R. Gandhi    |
 | 11:10   | 10m    | draft-spiegel-ippm-ioam-rawexport           | J. Iurman    |
 | 11:20   | 10m    | draft-mirsky-ippm-asymmetrical-pkts         | G. Mirsky    |
 
