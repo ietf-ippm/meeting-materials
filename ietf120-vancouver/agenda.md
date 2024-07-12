@@ -24,7 +24,7 @@ Individual drafts that have recent on-list discussion.
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
 | 14:25   | 10m    | draft-ydt-ippm-alt-mark-yang                | G. Fioccola  |
-| 14:35   | 10m    | draft-ietf-6man-icmpv6-ioam-conf-state      | G. Mirsky    |
+| 14:35   | 10m    | draft-ietf-6man-icmpv6-ioam-conf-state      | X. Min       |
 | 14:45   | 10m    | draft-mcb-6man-icmpv6-loopback              | T. Mizrahi    |
 
 # Lightning Talks
