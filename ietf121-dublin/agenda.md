@@ -1,6 +1,6 @@
 *When*   Monday 4 November 2024, 13:00-15:00 UTC
 
-*Where:*  M1, https://meetings.conf.meetecho.com/ietf121/?group=ippm
+*Where:*  Liffey MR 3, https://meetings.conf.meetecho.com/ietf121/?group=ippm
 
 *Chairs:* Tommy Pauly & Marcus Ihlar
 
@@ -17,15 +17,10 @@
 | 13:50   | 10m    | draft-olden-ippm-qoo                        | B. Tiegen    |
 | 14:00   | 10m    | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
 
-# Proposed Work
-
-Individual drafts that have recent on-list discussion.
-
-| Time    | Length | What                                        | Who          |
-|---------|--------|---------------------------------------------|--------------|
-
-
-# Lightning Talks
+# Lightning Talks (Proposed Work)
 
 | What                                            | Who          |
 |-------------------------------------------------|--------------|
+| draft-iuzh-ippm-ioam-integrity-yang             | T. Zhou      |
+| draft-he-ippm-integrating-am-into-ioam          | X. He        |
+| draft-he-ippm-ioam-extensions-incorporating-am  | X. He        |
