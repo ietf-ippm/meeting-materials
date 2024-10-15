@@ -15,7 +15,8 @@
 | 13:30   | 10m    | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
 | 13:40   | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 | 13:50   | 10m    | draft-olden-ippm-qoo                        | B. Tiegen    |
-| 14:00   | 10m    | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
+| 14:00   | 20m    | draft-ietf-ippm-responsiveness              | S. Cheshire  |
+| 14:20   | 10m    | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
 
 # Proposed Work
 
@@ -23,7 +24,7 @@ Individual drafts that have recent on-list discussion.
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
-| 14:10   | 10m    | draft-ydt-ippm-alt-mark-yang                | G. Fioccola  |
+| 14:30   | 10m    | draft-ydt-ippm-alt-mark-yang                | G. Fioccola  |
 
 # Lightning Talks
 
