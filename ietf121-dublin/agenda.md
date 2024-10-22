@@ -37,3 +37,4 @@ Individual drafts that have recent on-list discussion.
 | draft-he-ippm-ioam-extensions-incorporating-am  | X. He        |
 | draft-xiao-ippm-ioam-trace-extensions           | X. Min       |
 | draft-hz-ippm-cei                               | S. Liu       |
+| draft-fz-ippm-on-path-telemetry-yang            | G. Fioccola  |
