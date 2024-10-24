@@ -38,3 +38,4 @@ Individual drafts that have recent on-list discussion.
 | draft-xiao-ippm-ioam-trace-extensions           | X. Min       |
 | draft-hz-ippm-cei                               | S. Liu       |
 | draft-fz-ippm-on-path-telemetry-yang            | G. Fioccola  |
+| draft-cxx-ippm-ioamaggr                         | A. Clemm     |
