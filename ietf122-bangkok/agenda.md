@@ -2,14 +2,14 @@
 
 *Where:*  Boromphimarn 5, https://meetings.conf.meetecho.com/ietf122/?group=ippm
 
-*Chairs:* Tommy Pauly & Marcus Ihlar
+*Chairs:* Marcus Ihlar, Thomas Graf, Tommy Pauly
 
 # Working Group Documents
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
 | 09:30   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
-| 09:35   | 10m    | draft-ietf-ippm-ioam-data-integrity         | J. Iurman / Chairs  |
+| 09:35   | 10m    | draft-ietf-ippm-ioam-data-integrity         | J. Iurman    |
 | 09.45   | 10m    | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
 | 09.55   | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 | 10:05   | 10m    | draft-ietf-ippm-qoo                         | B. Tiegen    |
@@ -22,7 +22,7 @@ Individual drafts that have recent on-list discussion.
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
-| 10:35   | 10m    | draft-white-ippm-stamp-ecn               	 | G.   White   |
+| 10:35   | 10m    | draft-white-ippm-stamp-ecn               	 | G. White     |
 
 
 # Lightning Talks
