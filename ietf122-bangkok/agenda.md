@@ -2,7 +2,7 @@
 
 *Where:*  Boromphimarn 5, https://meetings.conf.meetecho.com/ietf122/?group=ippm
 
-*Chairs:* Tommy Pauly & Marcus Ihlar
+*Chairs:* Marcus Ihlar, Thomas Graf, Tommy Pauly
 
 # Working Group Documents
 
