@@ -10,8 +10,8 @@
 |---------|--------|---------------------------------------------|--------------|
 | 09:30   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
 | 09:35   | 10m    | draft-ietf-ippm-ioam-data-integrity         | J. Iurman / Chairs  |
-| 09.45   | 10m    | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
-| 09.50   | 5m     | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
+| 09:45   | 10m    | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
+| 09:50   | 5m     | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 | 10:00   | 10m    | draft-ietf-ippm-qoo                         | B. Tiegen    |
 | 10:10   | 5m     | draft-ietf-ippm-responsiveness              | S. Cheshire  |
 | 10:15   | 10m    | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
