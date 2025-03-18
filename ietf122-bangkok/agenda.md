@@ -34,7 +34,7 @@ Individual drafts that have recent on-list discussion.
 |-------------------------------------------------|--------------|
 | draft-cxx-ippm-iomaggr                          | A. Clemm     |
 | draft-contreras-pce-pam                         | L. Contreras |
-|                                                 |              |
+| draft-ietf-opsawg-oam-characterization          | T. Graf      |
 |                                                 |              |
 |                                                 |              |
 |                                                 |              |
