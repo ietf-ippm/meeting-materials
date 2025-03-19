@@ -1,0 +1,56 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+    java-package: # pilihan, lalai ialah jdk
+    # Seni bina pakej (lalai kepada seni bina pelari aksi)
+    seni bina: # pilihan
+    # Laluan ke tempat JDK termampat berada
+    jdkFile: # pilihan
+    # Tetapkan pilihan ini jika anda mahu tindakan menyemak versi terkini yang tersedia yang memenuhi spesifikasi versi
+    semak-terkini: # pilihan
+    # ID repositori distributionManagement dalam fail pom.xml. Lalai ialah `github`
+    server-id: # pilihan, lalai ialah github
+    # Nama pembolehubah persekitaran untuk nama pengguna untuk pengesahan ke repositori Apache Maven. Lalai ialah $GITHUB_ACTOR
+    nama pengguna pelayan: # pilihan, lalai ialah GITHUB_ACTOR
+    # Nama pembolehubah persekitaran untuk kata laluan atau token untuk pengesahan ke repositori Apache Maven. Lalai ialah $GITHUB_TOKEN
+    kata laluan pelayan: # pilihan, lalai ialah GITHUB_TOKEN
+    # Laluan ke tempat fail settings.xml akan ditulis. Lalai ialah ~/.m2.
+    laluan tetapan: # pilihan
+    # Tulis ganti fail settings.xml jika ia wujud. Lalai adalah "benar".
+    tetapan tulis ganti: # pilihan, lalai adalah benar
+    # Kunci peribadi GPG untuk diimport. Lalai ialah rentetan kosong.
+    gpg-private-key: # pilihan
+    # Nama pembolehubah persekitaran untuk frasa laluan kunci peribadi GPG. Lalai ialah $GPG_PASSPHRASE.
+    frasa laluan gpg: # pilihan
+    # Nama platform binaan kepada kebergantungan cache. Ia boleh menjadi "maven", "gradle" atau "sbt".
+    cache: # pilihan
+    # Laluan ke fail pergantungan: pom.xml, build.gradle, build.sbt, dsb. Pilihan ini boleh digunakan dengan pilihan `cache`. Jika pilihan ini ditinggalkan, tindakan mencari fail kebergantungan dalam keseluruhan repositori. Pilihan ini menyokong kad bebas dan senarai nama fail untuk menyimpan pelbagai kebergantungan.
+    laluan-pergantungan cache: # pilihan
+    # Penyelesaian untuk lulus status kerja untuk menyiarkan langkah kerja. Pembolehubah ini tidak bertujuan untuk tetapan manual
+    status kerja: # pilihan, lalai ialah ${{ job.status }}
+    # Token yang digunakan untuk mengesahkan apabila mengambil manifes versi yang dihoskan pada github.com, seperti untuk Microsoft Build OpenJDK. Apabila menjalankan tindakan ini pada github.com, nilai lalai adalah mencukupi. Apabila berjalan pada GHES, anda boleh lulus token akses peribadi untuk github.com jika anda mengalami pengehadan kadar.
+    token: # pilihan, lalai ialah ${{ github.server_url == 'https://github.com' && github.token || '' }}
+    # Nama ID Maven Toolchain jika nama lalai "${distribution}_${java-version}" tidak dikehendaki. Lihat contoh sintaks yang disokong dalam fail Penggunaan Lanjutan
+    mvn-toolchain-id: # pilihan
+    # Nama Penjual Maven Toolchain jika nama lalai "${distribution}" tidak dikehendaki. Lihat contoh sintaks yang disokong dalam fail Penggunaan Lanjutan
+    patch
+    # pilihan :_''
+    
+          
