@@ -12,6 +12,7 @@ Individual drafts that have recent on-list discussion.
 |---------|--------|---------------------------------------------|--------------|
 |         | 30m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
 |         |        | draft-white-ippm-stamp-ecn               	 | G. White     |
+|         |        | draft-mirsky-ippm-stamp-cos-ext           	 | G. Mirsky    |
 |         |        | draft-iuzh-ippm-ioam-integrity-yang         | J. Iurman    |
 |         |        |                                             |              |
 |         |        |                                             |              |

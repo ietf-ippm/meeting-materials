@@ -12,7 +12,7 @@
 |         | 5m     | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
 |         | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 |         | 5m     | draft-ietf-ippm-qoo                         | B. Tiegen    |
-|         | 5m     | draft-fz-ippm-on-path-telemetry-yang        | G. Fioccola  |
+|         | 5m     | draft-ietf-ippm-on-path-telemetry-yang      | G. Fioccola  |
 |         | 20m    | draft-ietf-opsawg-oam-characterization      | C. Pignataro |
 |         |        |                                             |              |
 |         |        |                                             |              |
@@ -21,6 +21,8 @@
 
 # Backlog, ask authors wherever updates are planned for IETF 123
 
+| Time    | Length | What                                        | Who          |
+|---------|--------|---------------------------------------------|--------------|
 |         |        | draft-ietf-ippm-responsiveness              | S. Cheshire  |
 |         |        | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
 |         |        | draft-ietf-ippm-alt-mark-yang               | G. Fioccola  |
