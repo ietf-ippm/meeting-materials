@@ -9,11 +9,13 @@
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
 |         | 10m    | Welcome, Note Well, Agenda, Status          | Chairs       |
-|         | 5m     | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
+|         | 10m    | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
 |         | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 |         | 5m     | draft-ietf-ippm-qoo                         | B. Tiegen    |
+|         | 5m     | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
+|         | 5m     | draft-ietf-ippm-alt-mark-yang               | G. Fioccola  |
 |         | 5m     | draft-ietf-ippm-on-path-telemetry-yang      | G. Fioccola  |
-|         | 20m    | draft-ietf-opsawg-oam-characterization      | C. Pignataro |
+|         | 15m    | draft-ietf-opsawg-oam-characterization      | C. Pignataro |
 |         |        |                                             |              |
 |         |        |                                             |              |
 |         |        |                                             |              |
@@ -24,6 +26,4 @@
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
 |         |        | draft-ietf-ippm-responsiveness              | S. Cheshire  |
-|         |        | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
-|         |        | draft-ietf-ippm-alt-mark-yang               | G. Fioccola  |
 |         |        | draft-fioccola-ippm-on-path-active-measurements | G. Fioccola |
