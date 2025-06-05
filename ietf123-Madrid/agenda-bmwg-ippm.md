@@ -28,8 +28,10 @@
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
 |         | 5m     | draft-chen-bmwg-savnet-sav-benchmarking     | L. Liu       |
+|         | 5m     | draft-lencse-bmwg-multiple-ip-addresses     | G. Lencse    |
 |         | 5m     | draft-cprjgf-bmwg-powerbench                | C. Pignataro |
 |         | 5m     | draft-contreras-bmwg-calibration            | L. Contreras |
+|         |        |                                             |              |
 
 # Backlog, ask authors wherever updates are planned for IETF 123
 
@@ -39,3 +41,4 @@
 |         |        | draft-geng-bmwg-srv6-service-guideline      | X. Geng      |
 |         |        | draft-ietf-ippm-responsiveness              | S. Cheshire  |
 |         |        | draft-fioccola-ippm-on-path-active-measurements | G. Fioccola |
+|         |        |                                             |              |
