@@ -9,6 +9,9 @@
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
 |         | 10m    | Welcome, Note Well, Agenda, Status          | Chairs       |
+|         | 10m    | draft-ietf-bmwg-mlrsearch                   | M. Konstantynowicz |
+|         | 10m    | draft-ietf-bmwg-sr-bench-meth               | P. Volpato   |
+|         | 10m    | draft-ietf-bmwg-containerized-infra         | N. Tran      |
 |         | 10m    | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
 |         | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 |         | 5m     | draft-ietf-ippm-qoo                         | B. Tiegen    |
@@ -20,10 +23,19 @@
 |         |        |                                             |              |
 |         |        |                                             |              |
 
+# Proposals
+
+| Time    | Length | What                                        | Who          |
+|---------|--------|---------------------------------------------|--------------|
+|         | 5m     | draft-chen-bmwg-savnet-sav-benchmarking     | L. Liu       |
+|         | 5m     | draft-cprjgf-bmwg-powerbench                | C. Pignataro |
+|         | 5m     | draft-contreras-bmwg-calibration            | L. Contreras |
 
 # Backlog, ask authors wherever updates are planned for IETF 123
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
+|         |        | draft-ietf-bmwg-network-tester-cfg          | V. Vassilev  |
+|         |        | draft-geng-bmwg-srv6-service-guideline      | X. Geng      |
 |         |        | draft-ietf-ippm-responsiveness              | S. Cheshire  |
 |         |        | draft-fioccola-ippm-on-path-active-measurements | G. Fioccola |
