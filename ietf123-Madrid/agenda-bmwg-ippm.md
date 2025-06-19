@@ -12,7 +12,6 @@
 |         | 10m    | draft-ietf-bmwg-mlrsearch                   | M. Konstantynowicz |
 |         | 10m    | draft-ietf-bmwg-sr-bench-meth               | P. Volpato   |
 |         | 10m    | draft-ietf-bmwg-containerized-infra         | N. Tran      |
-|         | 10m    | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
 |         | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 |         | 5m     | draft-ietf-ippm-qoo                         | B. Tiegen    |
 |         | 5m     | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
