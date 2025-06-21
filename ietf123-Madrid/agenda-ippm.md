@@ -1,6 +1,6 @@
-*When*   xxx xx July 2025, xx:xx - xx:xx CET (UTC +2)
+*When*   Thursday 24 July 2025, 12:00 - 13:00 CET (UTC +2)
 
-*Where:*  xxx, https://meetings.conf.meetecho.com/ietf123/?group=ippm
+*Where:*  Castilla, https://meetings.conf.meetecho.com/ietf123/?group=ippm
 
 *Chairs:* Marcus Ihlar, Thomas Graf
 
@@ -25,7 +25,7 @@ Individual drafts that have recent on-list discussion.
 | What                                            | Who          |
 |-------------------------------------------------|--------------|
 | draft-weis-ippm-ioam-eth                        | T. Altaf     |
-|                                                 |              |
+| draft-gandhi-ippm-stamp-ber                     | R. Gandhi    |
 |                                                 |              |
 |                                                 |              |
 |                                                 |              |

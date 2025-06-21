@@ -1,6 +1,6 @@
-*When*   xxx xx July 2025, xx:xx - xx:xx CET (UTC +2)
+*When*   Monday 21 July 2025, 14:30 - 16:30 CET (UTC +2)
 
-*Where:*  xxx, https://meetings.conf.meetecho.com/ietf123/?group=bmwg
+*Where:*  Hidalgo, https://meetings.conf.meetecho.com/ietf123/?group=bmwg
 
 *Chairs:* Giuseppe Fioccola, Sarah Banks, Marcus Ihlar, Thomas Graf
 
@@ -13,10 +13,11 @@
 |         | 10m    | draft-ietf-bmwg-sr-bench-meth               | P. Volpato   |
 |         | 10m    | draft-ietf-bmwg-containerized-infra         | N. Tran      |
 |         | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
-|         | 5m     | draft-ietf-ippm-qoo                         | B. Tiegen    |
-|         | 5m     | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
-|         | 5m     | draft-ietf-ippm-alt-mark-yang               | G. Fioccola  |
-|         | 5m     | draft-ietf-ippm-on-path-telemetry-yang      | G. Fioccola  |
+|         |        | draft-gandhi-ippm-stamp-mpls-hdr            |              |
+|         | 10m    | draft-ietf-ippm-qoo                         | B. Tiegen    |
+|         | 15m    | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
+|         |        | draft-ietf-ippm-alt-mark-yang               |              |
+|         |        | draft-ietf-ippm-on-path-telemetry-yang      |              |
 |         | 15m    | draft-ietf-opsawg-oam-characterization      | C. Pignataro |
 |         |        |                                             |              |
 |         |        |                                             |              |
