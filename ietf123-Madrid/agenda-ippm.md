@@ -26,6 +26,6 @@ Individual drafts that have recent on-list discussion.
 |-------------------------------------------------|--------------|
 | draft-weis-ippm-ioam-eth                        | T. Altaf     |
 | draft-gandhi-ippm-stamp-ber                     | R. Gandhi    |
-|                                                 |              |
+| draft-xiao-ippm-ioam-trace-extensions           | X. Min       |
 |                                                 |              |
 |                                                 |              |
