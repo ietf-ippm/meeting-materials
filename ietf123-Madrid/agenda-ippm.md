@@ -10,22 +10,21 @@ Individual drafts that have recent on-list discussion.
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
-|         |        | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
+|         | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
+|         | 20m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
 |         |        | draft-elkins-pdmv2-registration             |              |
-|         |        | draft-white-ippm-stamp-ecn               	 | G. White     |
-|         |        | draft-mirsky-ippm-stamp-cos-ext           	 | G. Mirsky    |
-|         |        | draft-iuzh-ippm-ioam-integrity-yang         | J. Iurman    |
-|         |        |                                             |              |
-|         |        |                                             |              |
+|         | 10m    | draft-whimir-ippm-stamp-cos-ecn             | G. White     |
+|         | 10m    | draft-iuzh-ippm-ioam-integrity-yang         | J. Iurman    |
 |         |        |                                             |              |
 
 
 # Lightning Talks
 
-| What                                            | Who          |
-|-------------------------------------------------|--------------|
-| draft-weis-ippm-ioam-eth                        | T. Altaf     |
-| draft-gandhi-ippm-stamp-ber                     | R. Gandhi    |
-| draft-xiao-ippm-ioam-trace-extensions           | X. Min       |
-|                                                 |              |
-|                                                 |              |
+| What                                               | Who          |
+|----------------------------------------------------|--------------|
+| draft-weis-ippm-ioam-eth                           | T. Altaf     |
+| draft-gandhi-ippm-stamp-ber                        | R. Gandhi    |
+| draft-xiao-ippm-ioam-trace-extensions              | X. Min       |
+| draft-he-ippm-ioam-dex-extensions-incorporating-am | H. Xiaoming  |
+| draft-he-ippm-ioam-extensions-incorporating-am     | H. Xiaoming  |
+| draft-filsfils-ippm-path-tracing                   | P. Camarillo |
