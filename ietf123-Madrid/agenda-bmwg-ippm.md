@@ -14,11 +14,13 @@
 |         | 10m    | draft-ietf-bmwg-containerized-infra         | N. Tran      |
 |         | 10m    | draft-ietf-bmwg-network-tester-cfg          | V. Vassilev  |
 |         | 10m    | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
+|         | 10m    | draft-ietf-ippm-qoo                         | B. Tiegen    |
 |         | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 |         |        | draft-gandhi-ippm-stamp-mpls-hdr            |              |
 |         | 15m    | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
 |         |        | draft-ietf-ippm-alt-mark-yang               |              |
 |         |        | draft-ietf-ippm-on-path-telemetry-yang      |              |
+|         | 15m    | draft-ietf-opsawg-oam-characterization      | C. Pignataro |
 |         |        |                                             |              |
 |         |        |                                             |              |
 |         |        |                                             |              |
@@ -37,8 +39,7 @@
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
-|         | 10m    | draft-ietf-ippm-qoo                         | B. Tiegen    |
-|         | 15m    | draft-ietf-opsawg-oam-characterization      | C. Pignataro |
+
 |         |        | draft-geng-bmwg-srv6-service-guideline      | X. Geng      |
 |         |        | draft-ietf-ippm-responsiveness              | S. Cheshire  |
 |         |        | draft-fioccola-ippm-on-path-active-measurements | G. Fioccola |

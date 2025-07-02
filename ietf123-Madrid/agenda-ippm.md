@@ -27,4 +27,5 @@ Individual drafts that have recent on-list discussion.
 | draft-xiao-ippm-ioam-trace-extensions              | X. Min       |
 | draft-he-ippm-ioam-dex-extensions-incorporating-am | H. Xiaoming  |
 | draft-he-ippm-ioam-extensions-incorporating-am     | H. Xiaoming  |
+| IOAM The Template Option-Type											 | T. Mizrahi   |
 | draft-filsfils-ippm-path-tracing                   | P. Camarillo |
