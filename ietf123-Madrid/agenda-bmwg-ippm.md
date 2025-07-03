@@ -17,9 +17,10 @@
 |         | 10m    | draft-ietf-ippm-qoo                         | B. Tiegen    |
 |         | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 |         |        | draft-gandhi-ippm-stamp-mpls-hdr            |              |
-|         | 15m    | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
+|         | 10m    | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
 |         |        | draft-ietf-ippm-alt-mark-yang               |              |
 |         |        | draft-ietf-ippm-on-path-telemetry-yang      |              |
+|         | 5m     | draft-ietf-ippm-responsiveness              | S. Cheshire  |
 |         | 15m    | draft-ietf-opsawg-oam-characterization      | C. Pignataro |
 |         |        |                                             |              |
 |         |        |                                             |              |
@@ -33,14 +34,4 @@
 |         | 5m     | draft-lencse-bmwg-multiple-ip-addresses     | G. Lencse    |
 |         | 5m     | draft-cprjgf-bmwg-powerbench                | C. Pignataro |
 |         | 5m     | draft-contreras-bmwg-calibration            | L. Contreras |
-|         |        |                                             |              |
-
-# Backlog, ask authors wherever updates are planned for IETF 123
-
-| Time    | Length | What                                        | Who          |
-|---------|--------|---------------------------------------------|--------------|
-
-|         |        | draft-geng-bmwg-srv6-service-guideline      | X. Geng      |
-|         |        | draft-ietf-ippm-responsiveness              | S. Cheshire  |
-|         |        | draft-fioccola-ippm-on-path-active-measurements | G. Fioccola |
 |         |        |                                             |              |
