@@ -22,7 +22,7 @@
 |         | 10m    | draft-ietf-bmwg-network-tester-cfg          | V. Vassilev  |
 |         | 15m    | draft-ietf-opsawg-oam-characterization      | C. Pignataro |
 
-# Proposals
+# Proposed Work
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
