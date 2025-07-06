@@ -15,7 +15,6 @@ Individual drafts that have recent on-list discussion.
 |         |        | draft-elkins-pdmv2-registration             |              |
 |         | 10m    | draft-whimir-ippm-stamp-cos-ecn             | G. White     |
 |         | 10m    | draft-iuzh-ippm-ioam-integrity-yang         | J. Iurman    |
-|         |        |                                             |              |
 
 
 # Lightning Talks
@@ -27,5 +26,5 @@ Individual drafts that have recent on-list discussion.
 | draft-xiao-ippm-ioam-trace-extensions              | X. Min       |
 | draft-he-ippm-ioam-dex-extensions-incorporating-am | H. Xiaoming  |
 | draft-he-ippm-ioam-extensions-incorporating-am     | H. Xiaoming  |
-| IOAM The Template Option-Type											 | T. Mizrahi   |
+| draft-mbci-ippm-ioam-template-option  						 | T. Mizrahi   |
 | draft-filsfils-ippm-path-tracing                   | P. Camarillo |

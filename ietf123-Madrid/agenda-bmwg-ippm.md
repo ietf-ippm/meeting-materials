@@ -10,21 +10,17 @@
 |---------|--------|---------------------------------------------|--------------|
 |         | 10m    | Welcome, Note Well, Agenda, Status          | Chairs       |
 |         | 10m    | draft-ietf-bmwg-mlrsearch                   | M. Konstantynowicz |
-|         | 10m    | draft-ietf-bmwg-sr-bench-meth               | P. Volpato   |
-|         | 10m    | draft-ietf-bmwg-containerized-infra         | N. Tran      |
-|         | 10m    | draft-ietf-bmwg-network-tester-cfg          | V. Vassilev  |
 |         | 10m    | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
+|         | 10m    | draft-ietf-bmwg-sr-bench-meth               | P. Volpato   |
 |         | 10m    | draft-ietf-ippm-qoo                         | B. Tiegen    |
 |         | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 |         |        | draft-gandhi-ippm-stamp-mpls-hdr            |              |
+|         | 10m    | draft-ietf-bmwg-containerized-infra         | N. Tran      |
 |         | 10m    | draft-ietf-ippm-alt-mark-deployment         | G. Fioccola  |
 |         |        | draft-ietf-ippm-alt-mark-yang               |              |
 |         |        | draft-ietf-ippm-on-path-telemetry-yang      |              |
-|         | 5m     | draft-ietf-ippm-responsiveness              | S. Cheshire  |
+|         | 10m    | draft-ietf-bmwg-network-tester-cfg          | V. Vassilev  |
 |         | 15m    | draft-ietf-opsawg-oam-characterization      | C. Pignataro |
-|         |        |                                             |              |
-|         |        |                                             |              |
-|         |        |                                             |              |
 
 # Proposals
 
@@ -34,4 +30,3 @@
 |         | 5m     | draft-lencse-bmwg-multiple-ip-addresses     | G. Lencse    |
 |         | 5m     | draft-cprjgf-bmwg-powerbench                | C. Pignataro |
 |         | 5m     | draft-contreras-bmwg-calibration            | L. Contreras |
-|         |        |                                             |              |
