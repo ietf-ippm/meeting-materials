@@ -10,11 +10,11 @@ Individual drafts that have recent on-list discussion.
 
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
-|         | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
-|         | 20m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
+| 12:00   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
+| 12:05   | 20m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
 |         |        | draft-elkins-pdmv2-registration             |              |
-|         | 10m    | draft-whimir-ippm-stamp-cos-ecn             | G. White     |
-|         | 10m    | draft-iuzh-ippm-ioam-integrity-yang         | J. Iurman    |
+| 12:25   | 10m    | draft-whimir-ippm-stamp-cos-ecn             | G. White     |
+| 12:35   | 10m    | draft-iuzh-ippm-ioam-integrity-yang         | J. Iurman    |
 
 
 # Lightning Talks
