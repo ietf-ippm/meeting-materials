@@ -30,3 +30,9 @@
 | 16:15   | 5m     | draft-cprjgf-bmwg-powerbench                | C. Pignataro |
 | 16:20   | 5m     | draft-contreras-bmwg-calibration            | L. Contreras |
 | 16:25   | 5m     | draft-yl-bmwg-cats                          | K. Yao       |
+
+# If Time Permits
+
+| Time    | Length | What                                        | Who          |
+|---------|--------|---------------------------------------------|--------------|
+|         | 5m     | draft-samizadeh-bmwg-cni-benchmarking       | T. Samizadeh |
