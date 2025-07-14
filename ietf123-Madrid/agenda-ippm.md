@@ -14,14 +14,13 @@ Individual drafts that have recent on-list discussion.
 | 12:05   | 20m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
 |         |        | draft-elkins-pdmv2-registration             |              |
 | 12:25   | 10m    | draft-whimir-ippm-stamp-cos-ecn             | G. White     |
-| 12:35   | 10m    | draft-iuzh-ippm-ioam-integrity-yang         | J. Iurman    |
-
+| 12:35   | 5m     | draft-iuzh-ippm-ioam-integrity-yang         | J. Iurman    |
+| 12:40   | 10m    | draft-weis-ippm-ioam-eth                    | T. Altaf     |
 
 # Lightning Talks
 
 | What                                               | Who          |
 |----------------------------------------------------|--------------|
-| draft-weis-ippm-ioam-eth                           | T. Altaf     |
 | draft-gandhi-ippm-stamp-ber                        | R. Gandhi    |
 | draft-xiao-ippm-ioam-trace-extensions              | X. Min       |
 | draft-he-ippm-ioam-dex-extensions-incorporating-am | H. Xiaoming  |
