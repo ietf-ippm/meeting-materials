@@ -36,3 +36,4 @@
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
 |         | 5m     | draft-samizadeh-bmwg-cni-benchmarking       | T. Samizadeh |
+|         | 5m     | draft-cui-bmwg-testcase-spec                | Y. Wei       |
