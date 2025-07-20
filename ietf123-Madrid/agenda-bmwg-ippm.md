@@ -11,7 +11,8 @@
 | 14:30   | 10m    | Welcome, Note Well, Agenda, Status          | Chairs       |
 | 14:40   | 10m    | draft-ietf-ippm-asymmetrical-pkts           | G. Mirsky    |
 | 14:50   | 10m    | draft-ietf-bmwg-sr-bench-meth               | P. Volpato   |
-| 15:00   | 10m    | draft-ietf-ippm-qoo                         | B. Tiegen    |
+| 15:00   | 5m     | draft-ietf-ippm-qoo                         | B. Tiegen    |
+| 15:05   | 5m     | draft-ietf-ippm-responsiveness              | S. Cheshire  |
 | 15:10   | 10m    | draft-ietf-ippm-stamp-ext-hdr               | R. Gandhi    |
 |         |        | draft-gandhi-ippm-stamp-mpls-hdr            |              |
 | 15:20   | 10m    | draft-ietf-bmwg-containerized-infra         | N. Tran      |
