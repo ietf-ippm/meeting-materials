@@ -11,7 +11,8 @@ Individual drafts that have recent on-list discussion.
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
 | 12:00   | 5m     | Welcome, Note Well, Agenda, Status          | Chairs       |
-| 12:05   | 20m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
+| 12:05   | 5m     | draft-ietf-ippm-qoo                         | B. Teigen    |
+| 12:10   | 15m    | draft-ietf-ippm-encrypted-pdmv2             | N. Elkins    |
 |         |        | draft-elkins-pdmv2-registration             |              |
 | 12:25   | 10m    | draft-whimir-ippm-stamp-cos-ecn             | G. White     |
 | 12:35   | 5m     | draft-iuzh-ippm-ioam-integrity-yang         | J. Iurman    |
@@ -25,5 +26,5 @@ Individual drafts that have recent on-list discussion.
 | draft-xiao-ippm-ioam-trace-extensions              | X. Min       |
 | draft-he-ippm-ioam-dex-extensions-incorporating-am | H. Xiaoming  |
 | draft-he-ippm-ioam-extensions-incorporating-am     | H. Xiaoming  |
-| draft-mbci-ippm-ioam-template-option  						 | T. Mizrahi   |
+| draft-mbci-ippm-ioam-template-option  			 | T. Mizrahi   |
 | draft-filsfils-ippm-path-tracing                   | P. Camarillo |
