@@ -11,9 +11,9 @@ November 20th 02:00 - 04:00 pm CET
 | 14:00   | 10m    | Welcome, Note Well, Agenda, Status          | Chairs       |
 |         | 10m    | draft-chen-bmwg-savnet-sav-benchmarking     | L. Liu       |
 |         | 10m    | draft-gandhi-ippm-stamp-ber   	             | R. Gandhi    |
-|         |        |                              	             |              |
-|         |        |                              	             |              |
-|         |        |                              	             |              |
+|         |        | draft-yl-bmwg-cats                          | K. Yao       |
+|         |        | draft-whimir-ippm-stamp-cos-ecn             | G. White     |
+|         |        | draft-xiao-ippm-ioam-trace-extensions       | X. Min       |
 |         |        |                              	             |              |
 |         |        |                              	             |              |
 |         |        |                              	             |              |
