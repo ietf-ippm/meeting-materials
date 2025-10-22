@@ -9,13 +9,13 @@
 | Time    | Length | What                                        | Who          |
 |---------|--------|---------------------------------------------|--------------|
 | 09:30   | 10m    | Welcome, Note Well, Agenda, Status          | Chairs       |
-|         |        | draft-ietf-ippm-on-path-active-measurements | G. Fioccola  |
 |         |        | draft-ietf-bmwg-network-tester-cfg          | V. Vassilev  |
+|         |        | draft-ietf-ippm-on-path-active-measurements | G. Fioccola  |
+|         |        | draft-ietf-bmwg-sr-bench-meth 	             | L. Contreras |
 |         | 5m     | draft-ietf-ippm-stamp-ext-hdr	             | R. Gandhi    |
 |         |        | draft-ietf-spring-stamp-srpm-mpls           |              |
 |         |        | draft-ietf-bmwg-containerized-infra         | M. Tran      |
 |         |        | draft-ietf-ippm-ioam-data-integrity         | J. Iurman    |
-|         |        | draft-ietf-bmwg-sr-bench-meth 	             | P. Volpato   |
 |         |        |                              	             |              |
 |         |        |                              	             |              |
 |         |        |                              	             |              |
