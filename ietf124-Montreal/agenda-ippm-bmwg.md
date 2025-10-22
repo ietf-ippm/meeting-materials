@@ -15,7 +15,7 @@
 |         |        | draft-ietf-spring-stamp-srpm-mpls           |              |
 |         |        | draft-ietf-bmwg-containerized-infra         | M. Tran      |
 |         |        | draft-ietf-ippm-ioam-data-integrity         | J. Iurman    |
-|         |        |                              	             |              |
+|         |        | draft-ietf-bmwg-sr-bench-meth 	             | P. Volpato   |
 |         |        |                              	             |              |
 |         |        |                              	             |              |
 |         |        |                              	             |              |
