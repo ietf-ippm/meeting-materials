@@ -15,7 +15,7 @@ November 20th 02:00 - 04:00 pm CET
 |         | 5m     | draft-he-ippm-ioam-extensions-incorporating-am     | X. He        |
 |         | 15m    | draft-whimir-ippm-stamp-cos-ecn                    | G. White     |
 |         | 10m    | draft-xiao-ippm-ioam-trace-extensions              | X. Min       |
-|         | 10m    | draft-yl-bmwg-cats-01         	                    | K. Yao       |
+|         | 10m    | draft-yl-bmwg-cats           	                    | K. Yao       |
 |         | 10m    | draft-mbci-ippm-ioam-template-option               | T. Mizrahi   |
 |         |        |                              	                    |              |
 |         |        |                              	                    |              |
