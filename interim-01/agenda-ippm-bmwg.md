@@ -17,8 +17,8 @@ November 20th 02:00 - 04:00 pm CET
 |         | 10m    | draft-xiao-ippm-ioam-trace-extensions              | X. Min       |
 |         | 10m    | draft-yl-bmwg-cats           	                    | K. Yao       |
 |         | 10m    | draft-mbci-ippm-ioam-template-option               | T. Mizrahi   |
-|         |        |                              	                    |              |
-|         |        |                              	                    |              |
+|         |  5m    | draft-dong-bmwg-network-slicing                    | J. Dong      |
+|         |  5m    | draft-samizadeh-bmwg-cni-benchmarking              |	T. Samizadeh |
 |         |        |                              	                    |              |
 |         |        |                              	                    |              |
 | 15:30   | 30m    | IPPM/BMWG Joint Chartering Discussion              | Q. Wu        |
