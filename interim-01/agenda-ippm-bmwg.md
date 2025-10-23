@@ -1,6 +1,6 @@
 *When*   Thursday 20 November 2025, 14:00 - 16:00 CET (UTC +1)
 November 20th 02:00 - 04:00 pm CET 
-*Where:*  
+*Where:*  https://meetings.conf.meetecho.com/interim/?group=709c311f-ec86-4345-945d-414cbf1554f5
 
 *Chairs:* Giuseppe Fioccola, Sarah Banks, Marcus Ihlar, Thomas Graf
 
