@@ -15,7 +15,7 @@
 |         | 5m     | draft-ietf-ippm-stamp-ext-hdr	             | R. Gandhi    |
 |         |        | draft-ietf-spring-stamp-srpm-mpls           |              |
 |         |        | draft-ietf-bmwg-containerized-infra         | M. Tran      |
-|         |        | draft-ietf-ippm-ioam-data-integrity         | J. Iurman    |
+|         | 10m    | draft-ietf-ippm-ioam-data-integrity         | J. Iurman    |
 |         |        |                              	             |              |
 |         |        |                              	             |              |
 |         |        |                              	             |              |
