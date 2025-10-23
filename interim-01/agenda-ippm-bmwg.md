@@ -19,5 +19,9 @@ November 20th 02:00 - 04:00 pm CET
 | 15:00   | 5m     | draft-samizadeh-bmwg-cni-benchmarking              |	T. Samizadeh |
 |         |        |                              	                    |              |
 |         |        |                              	                    |              |
+
+# Open Discussion 
+
+| Time    | Length | What                                               | Who          |
+|---------|--------|----------------------------------------------------|--------------|
 | 15:10   | 30m    | IPPM/BMWG Joint Chartering Discussion              | Q. Wu        |
-|         |        |                              	                    |              |
