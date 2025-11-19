@@ -24,4 +24,4 @@ November 20th 02:00 - 04:00 pm CET
 
 | Time    | Length | What                                               | Who          |
 |---------|--------|----------------------------------------------------|--------------|
-| 15:10   | 45m    | IPPM/BMWG Joint Chartering Discussion              | Q. Wu        |
+| 15:15   | 45m    | IPPM/BMWG Joint Chartering Discussion              | Q. Wu        |
