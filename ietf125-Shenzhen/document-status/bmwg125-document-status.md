@@ -26,7 +26,7 @@ https://datatracker.ietf.org/meeting/124/session/ippm
 * **State**: WG adoption call ongoing. Plenty of feedback.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-chen-bmwg-savnet-sav-benchmarking
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-chen-bmwg-savnet-sav-benchmarking
-* **IETF Session**: ?
+* **IETF Session**: Open
 
 ### draft-ietf-bmwg-powerbench
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-powerbench/
