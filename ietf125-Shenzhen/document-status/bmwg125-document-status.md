@@ -16,16 +16,16 @@ https://datatracker.ietf.org/meeting/124/session/ippm
 
 ### draft-ietf-bmwg-sr-bench-meth
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-sr-bench-meth/
-* **State**: All open issues are adressed. Author is awaiting WGLC.
+* **State**: All open issues are adressed. WGLC is ongoing.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-ietf-bmwg-sr-bench-meth
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-bmwg-sr-bench-meth
 * **IETF Session**: Is open to present
 
-### draft-chen-bmwg-savnet-sav-benchmarking
-* **URL**: https://datatracker.ietf.org/doc/draft-chen-bmwg-savnet-sav-benchmarking/
-* **State**: WG adoption call ongoing. Plenty of feedback.
-* **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-chen-bmwg-savnet-sav-benchmarking
-* **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-chen-bmwg-savnet-sav-benchmarking
+### draft-ietf-bmwg-savnet-sav-benchmarking
+* **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-savnet-sav-benchmarking/
+* **State**: WG adoption call concluded. Plenty of feedback. Document needs update.
+* **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-ietf-bmwg-savnet-sav-benchmarking
+* **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-bmwg-savnet-sav-benchmarking
 * **IETF Session**: Open
 
 ### draft-ietf-bmwg-powerbench
