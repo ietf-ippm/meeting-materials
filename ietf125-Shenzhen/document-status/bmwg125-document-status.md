@@ -16,7 +16,7 @@ https://datatracker.ietf.org/meeting/124/session/ippm
 
 ### draft-ietf-bmwg-sr-bench-meth
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-sr-bench-meth/
-* **State**: All open issues are adressed. WGLC is ongoing.
+* **State**: All open issues are adressed. WGLC is ongoing. Some comments received during the WGLC.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-ietf-bmwg-sr-bench-meth
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-bmwg-sr-bench-meth
 * **IETF Session**: Is open to present
@@ -30,14 +30,14 @@ https://datatracker.ietf.org/meeting/124/session/ippm
 
 ### draft-ietf-bmwg-powerbench
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-powerbench/
-* **State**: No activities in the mailing list and nor feedback from the authors yet.
+* **State**: New revision posted. Inputs from a new coauthor.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-ietf-bmwg-powerbench
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-bmwg-powerbench
 * **IETF Session**: Open
 
 ### draft-ietf-bmwg-containerized-infr
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-containerized-infr/
-* **State**: No activities in the mailing list and nor feedback from the authors yet.
+* **State**: No activities in the mailing list. Authors are waiting for the WGLC.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-ietf-bmwg-containerized-infr
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=ddraft-ietf-bmwg-containerized-infr
 * **IETF Session**: Open
