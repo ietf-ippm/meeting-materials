@@ -11,13 +11,16 @@
 | ??:??   | 10m    | Welcome, Note Well, Agenda, Status          | Chairs            |
 | ??:??   | ??m    | draft-ietf-bmwg-sr-bench-meth               | Paolo Volpato     |
 | ??:??   | 5m     | draft-ietf-ippm-ioam-integrity-yang         | Justin Iurman     |
+| ??:??   | ??m    | draft-ietf-bmwg-savnet-sav-benchmarking     | Libin Liu         |
 | ??:??   | 10m    | draft-ietf-ippm-stamp-cos-ecn               | Xiao Min          |
+| ??:??   | ??m    | draft-ietf-bmwg-powerbench                  | Shailesh Prabhu   |
 | ??:??   | 10m    | draft-ietf-ippm-stamp-ext-hdr               | Rakesh Gandhi     |
 | ??:??   | 10m    | draft-ietf-ippm-alt-mark-yang               | Giuseppe Fioccola |
 |         |        | draft-ietf-ippm-on-path-telemetry-yang      | Giuseppe Fioccola |
 |         |        | draft-ietf-ippm-alt-mark-deployment         | Giuseppe Fioccola |
 |         |        | draft-ietf-ippm-on-path-active-measurements | Giuseppe Fioccola |
-| ??:??   | ??m    | draft-ietf-bmwg-savnet-sav-benchmarking     |                   |
+| ??:??   | ??m    |                                             |                   |
+| ??:??   | ??m    |                                             |                   |
 | ??:??   | ??m    |                                             |                   |
 
 
