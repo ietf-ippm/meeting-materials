@@ -16,9 +16,12 @@
 | 09:50   | 10m    | draft-ietf-bmwg-powerbench                  | Shailesh Prabhu   |
 | 10:00   | 10m    | draft-ietf-ippm-stamp-ext-hdr               | Rakesh Gandhi     |
 | 10:10   | 15m    | draft-ietf-ippm-alt-mark-yang               | Giuseppe Fioccola |
-|         |        | draft-ietf-ippm-on-path-telemetry-yang      | Giuseppe Fioccola |
-|         |        | draft-ietf-ippm-alt-mark-deployment         | Giuseppe Fioccola |
-|         |        | draft-ietf-ippm-on-path-active-measurements | Giuseppe Fioccola |
+|         |        | draft-ietf-ippm-on-path-telemetry-yang      |                   |
+|         |        | draft-ietf-ippm-alt-mark-deployment         |                   |
+|         |        | draft-ietf-ippm-on-path-active-measurements |                   |
+|         |        |                                             |                   |
+|         |        |                                             |                   |
+|         |        |                                             |                   |
 |         |        |                                             |                   |
 
 
