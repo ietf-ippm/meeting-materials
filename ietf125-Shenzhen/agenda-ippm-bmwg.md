@@ -6,7 +6,6 @@
 
 # Working Group Documents
 
-<<<<<<< HEAD
 | Time    | Length | What                                               | Who               |
 |---------|--------|----------------------------------------------------|-------------------|
 | 09:00   | 10m    | Welcome, Note Well, Agenda, Status                 | Chairs            |
@@ -21,7 +20,8 @@
 |         |        | draft-ietf-ippm-alt-mark-deployment                |                   |
 |         |        | draft-ietf-ippm-on-path-active-measurements        |                   |
 |         |        |                                                    |                   |
-=======
+
+
 | Time    | Length | What                                        | Who               |
 |---------|--------|---------------------------------------------|-------------------|
 | 09:00   | 10m    | Welcome, Note Well, Agenda, Status          | Chairs            |
@@ -39,7 +39,6 @@
 |         |        |                                             |                   |
 |         |        |                                             |                   |
 |         |        |                                             |                   |
->>>>>>> 6e45bac516a4faa6c00ac324a4561d28f4691a59
 
 
 # Non Working Group Documents
