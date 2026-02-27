@@ -22,25 +22,6 @@
 |         |        |                                                    |                   |
 
 
-| Time    | Length | What                                        | Who               |
-|---------|--------|---------------------------------------------|-------------------|
-| 09:00   | 10m    | Welcome, Note Well, Agenda, Status          | Chairs            |
-| 09:10   | 10m    | draft-ietf-bmwg-sr-bench-meth               | Paolo Volpato     |
-| 09:20   | 10m    | draft-ietf-ippm-ioam-integrity-yang         | Justin Iurman     |
-| 09:30   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking     | Libin Liu         |
-| 09:40   | 10m    | draft-ietf-ippm-stamp-cos-ecn               | Xiao Min          |
-| 09:50   | 10m    | draft-ietf-bmwg-powerbench                  | Shailesh Prabhu   |
-| 10:00   | 10m    | draft-ietf-ippm-stamp-ext-hdr               | Rakesh Gandhi     |
-| 10:10   | 15m    | draft-ietf-ippm-alt-mark-deployment         | Giuseppe Fioccola |
-|         |        | draft-ietf-ippm-alt-mark-yang               |                   |
-|         |        | draft-ietf-ippm-on-path-telemetry-yang      |                   |
-|         |        | draft-ietf-ippm-on-path-active-measurements |                   |
-|         |        |                                             |                   |
-|         |        |                                             |                   |
-|         |        |                                             |                   |
-|         |        |                                             |                   |
-
-
 # Non Working Group Documents
 
 | Time    | Length | What                                               | Who               |
