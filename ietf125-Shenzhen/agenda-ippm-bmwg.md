@@ -13,7 +13,8 @@
 | 09:20   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu         |
 | 09:30   | 10m    | draft-ietf-ippm-stamp-cos-ecn                      | Xiao Min          |
 | 09:40   | 10m    | draft-ietf-bmwg-powerbench                         | Shailesh Prabhu   |
-| 09:50   | 10m    | draft-ietf-ippm-stamp-ext-hdr                      | Rakesh Gandhi     |
+| 09:50   | 5m     | draft-ietf-ippm-stamp-ext-hdr                      | Rakesh Gandhi     |
+| 09:55   | 5m     | draft-gandhi-ippm-stamp-ber                        | Rakesh Gandhi     |
 | 10:00   | 10m    | draft-ietf-ippm-alt-mark-yang                      | Giuseppe Fioccola |
 |         |        | draft-ietf-ippm-on-path-telemetry-yang             |                   |
 |         |        | draft-ietf-ippm-alt-mark-deployment                |                   |
