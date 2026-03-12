@@ -33,9 +33,8 @@
 |         |        | draft-calabria-bmwg-ai-fabric-inference-bench      |                   |
 | 10:30   | 5m     | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu         |
 | 10:35   | 5m     | draft-li-ippm-ioam-packet-triggered-reporting      | Zhiqiang Li       |
+| 10:40   | 5m     | draft-pinkert-ippm-ip-measurement-option           | Tjeerd J. Pinkert |
 |         |        |                                                    |                   |
-|         |        |                                                    |                   |
-
 
 # Session Feedback
 
