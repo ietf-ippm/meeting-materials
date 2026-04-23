@@ -37,7 +37,7 @@ https://datatracker.ietf.org/meeting/125/session/ippm
 
 ### draft-ietf-bmwg-powerbench
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-powerbench/
-* **State**: New revision posted. Inputs from a new coauthor.
+* **State**: New revision posted. Inputs from a new coauthor. Giuseppe recommend cross review with GREEN WG.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-ietf-bmwg-powerbench
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-bmwg-powerbench
 * **IETF Session**: 
