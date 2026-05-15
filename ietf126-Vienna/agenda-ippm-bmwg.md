@@ -23,7 +23,7 @@
 
 | Time    | Length | What                                               | Who               |
 |---------|--------|----------------------------------------------------|-------------------|
-| xx:xx   | xxm    | draft-ye-ippm-switching-efficiency                 | Niangen Ye        |
+| xx:xx   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye        |
 | xx:xx   | xxm    | draft-cxx-ippm-ioamaggr                            | Alexander Clemm   |
 |         |        |                                                    |                   |
 |         |        |                                                    |                   |
