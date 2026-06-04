@@ -39,6 +39,7 @@ https://datatracker.ietf.org/meeting/125/session/ippm
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-ippm-stamp-ext-hdr/
 * **State**: There are no open items. Last updates addressed feedback from WG. Rakesh Gandhi presented at IETF 125 and requested WGLC. Poll who have read showed Yes 8 / No 12 (Total Participants: 51).
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/ippm/?q=draft-ietf-ippm-stamp-ext-hdr
+* **Mailinglist**: https://mailarchive.ietf.org/arch/msg/ippm/yA6U3FC_uGKdrOLQYLeg6O5HAUs/
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-ippm-stamp-ext-hdr
 * **IETF Session**: 
 
