@@ -6,33 +6,37 @@
 
 # Working Group Documents
 
-| Time    | Length | What                                               | Who               |
-|---------|--------|----------------------------------------------------|-------------------|
-| xx:xx   | 10m    | Welcome, Note Well, Agenda, Status                 | Chairs            |
-| xx:xx   | 15m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini Elkins     |
-| xx:xx   | 10m    | draft-ietf-ippm-hybrid-two-step                    | Greg Mirsky       |
-|         |        |                                                    |                   |
-|         |        |                                                    |                   |
-|         |        |                                                    |                   |
-|         |        |                                                    |                   |
-|         |        |                                                    |                   |
-|         |        |                                                    |                   |
+| Time    | Length | What                                               | Who                 |
+|---------|--------|----------------------------------------------------|---------------------|
+| xx:xx   | 10m    | Welcome, Note Well, Agenda, Status                 | Chairs              |
+| xx:xx   | 15m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini Elkins       |
+| xx:xx   | 10m    | draft-ietf-ippm-hybrid-two-step                    | Greg Mirsky         |
+|         |        |                                                    |                     |
+|         |        |                                                    |                     |
+|         |        |                                                    |                     |
+|         |        |                                                    |                     |
+|         |        |                                                    |                     |
+|         |        |                                                    |                     |
 
 
 # Non Working Group Documents
 
-| Time    | Length | What                                               | Who               |
-|---------|--------|----------------------------------------------------|-------------------|
-| xx:xx   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye        |
-| xx:xx   | xxm    | draft-cxx-ippm-ioamaggr                            | Alexander Clemm   |
-|         |        |                                                    |                   |
-|         |        |                                                    |                   |
-|         |        |                                                    |                   |
-|         |        |                                                    |                   |
-|         |        |                                                    |                   |
+| Time    | Length | What                                               | Who                 |
+|---------|--------|----------------------------------------------------|---------------------|
+| xx:xx   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye          |
+| xx:xx   | xxm    | draft-cxx-ippm-ioamaggr                            | Alexander Clemm     |
+| xx:xx   | 10m    | hackathon: draft-cxx-ippm-ioamaggr                 | Ramon Bister        |
+|         |        |            draft-mbci-ippm-ioam-template-option    | Severin Dellsperger |
+|         |        |                                                    |                     |
+|         |        |                                                    |                     |
+|         |        |                                                    |                     |
 
 # Session Feedback
 
-| Time    | Length | What                                               | Who               |
-|---------|--------|----------------------------------------------------|-------------------|
-| xx:xx   | 15m    | Feedback on IPPM/BMWG Joint Session                | Qin Wu , Chairs   |
+| Time    | Length | What                                               | Who                 |
+|---------|--------|----------------------------------------------------|---------------------|
+| xx:xx   | 15m    | Feedback on IPPM/BMWG Joint Session                | Qin Wu , Chairs     |
+
+
+
+
