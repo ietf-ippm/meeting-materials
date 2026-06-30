@@ -13,12 +13,12 @@
 | xx:xx   | 15m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini Elkins       |
 | xx:xx   | 10m    | draft-ietf-ippm-hybrid-two-step                    | Greg Mirsky         |
 | xx:xx   | 5m     | draft-ietf-ippm-qoo                                | Ike Kunze           |
+| xx:xx   | 10m    | draft-ietf-bmwg-powerbench                         | Shailesh Prabhu     |
+| xx:xx   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu           |
 |         |        |                                                    |                     |
 |         |        |                                                    |                     |
 |         |        |                                                    |                     |
-|         |        |                                                    |                     |
-|         |        |                                                    |                     |
-
+65
 
 # Non Working Group Documents
 
@@ -31,13 +31,16 @@
 | xx:xx   | 15m    | draft-yoon-ccamp-pm-streaming                      | Bin Yeong Yoon      |
 |         |        | draft-yoon-ippm-collection-interval-capabilities   |                     |
 |         |        | draft-yoon-ippm-collection-measure                 |                     |
-| xx:xx   | 10m    | draft-yl-bmwg-cats (Wednesday)                     | Kehan Yao           |
+| xx:xx   | 10m    | draft-yl-bmwg-cats                                 | Kehan Yao           | Wednesday
 |         |        |                                                    | Guanming Zeng       |
+| xx:xx   | 10m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
+| xx:xx   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin        |
+| xx:xx   | 10m    | draft-gandhi-ippm-stamp-mpls-hdr                   | Rakesh Gandhi       | adoption request
+| xx:xx   | 10m    | draft-gandhi-ippm-stamp-ber                        | Rakesh Gandhi       |
 |         |        |                                                    |                     |
 |         |        |                                                    |                     |
 |         |        |                                                    |                     |
-|         |        |                                                    |                     |
-|         |        |                                                    |                     |
+85
 
 # Session Feedback
 
