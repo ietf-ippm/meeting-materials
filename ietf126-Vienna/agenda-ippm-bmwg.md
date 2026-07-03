@@ -39,7 +39,8 @@ Session 2  (120min)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| xx:xx   | 10m    | Welcome, Note Well, Agenda, Status                 | Chairs              |
+| xx:xx   |  5m    | Welcome, Note Well, Agenda, Status                 | Chairs              |
+| xx:xx   |  5m    | AltMark and On-Path Telemetry drafts recap         | Giuseppe Fioccola   |
 | xx:xx   | 15m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini Elkins       |
 | xx:xx   | 10m    | draft-ietf-ippm-hybrid-two-step                    | Greg Mirsky         |
 | xx:xx   | 10m    | draft-ietf-bmwg-powerbench                         | Shailesh Prabhu     |
