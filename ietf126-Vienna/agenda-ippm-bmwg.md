@@ -61,7 +61,10 @@ Session 2  (120min)
 | xx:xx   | 10m    | draft-gandhi-ippm-stamp-ber                        | Rakesh Gandhi       |
 | xx:xx   | 10m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
 | xx:xx   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye          |
-
+| xx:xx   |  5m    | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
+| xx:xx   |  5m    | draft-he-ippm-congestion-loss-monitoring-problem   | Xiaoming He         |
+|         |        | draft-he-ippm-congestion-loss-monitoring-arch      |                     |
+| xx:xx   |  5m    | draft-han-bmwg-agent-security-benchmark            | Meiling Chen        |
 
 
 
