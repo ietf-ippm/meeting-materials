@@ -76,3 +76,4 @@ Session 2  (120min)
 |         |        | draft-he-ippm-congestion-loss-monitoring-arch      |                     |
 | xx:xx   |  5m    | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
 | xx:xx   |  5m    | draft-han-bmwg-agent-security-benchmark            | Meiling Chen        |
+| xx:xx   |  5m    | draft-contreras-bmwg-ai-agent-benchmarking         | Luis M. Contreras   |
