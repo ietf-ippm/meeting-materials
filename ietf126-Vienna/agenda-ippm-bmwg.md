@@ -67,6 +67,8 @@ Session 2  (120min)
 
 # Divert to Mailing List
 
+| Time    | Length | What                                               | Who                 |
+|---------|--------|----------------------------------------------------|---------------------|
 | xx:xx   |  5m    | draft-he-ippm-congestion-loss-monitoring-problem   | Xiaoming He         |
 |         |        | draft-he-ippm-congestion-loss-monitoring-arch      |                     |
 | xx:xx   |  5m    | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
