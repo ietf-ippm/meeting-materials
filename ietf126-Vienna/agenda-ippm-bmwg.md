@@ -40,12 +40,14 @@ Session 2  (120min)
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
 | xx:xx   |  5m    | Welcome, Note Well, Agenda, Status                 | Chairs              |
-| xx:xx   |  5m    | AltMark and On-Path Telemetry drafts recap         | Giuseppe Fioccola   |
-| xx:xx   | 15m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini Elkins       |
+| xx:xx   |  5m    | draft-ietf-ippm-alt-mark-deployment                | Giuseppe Fioccola   |
+|         |        | draft-ietf-ippm-alt-mark-yang                      |                     |
+|         |        | draft-ietf-ippm-on-path-telemetry-yang             |                     |
+| xx:xx   | 10m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini Elkins       |
 | xx:xx   | 10m    | draft-ietf-ippm-hybrid-two-step                    | Greg Mirsky         |
 | xx:xx   | 10m    | draft-ietf-bmwg-powerbench                         | Shailesh Prabhu     |
 | xx:xx   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu           |
-| xx:xx   | 10m    | draft-ietf-mpls-mna-ioam                           | TBC                 |
+| xx:xx   | 10m    | draft-ietf-mpls-mna-ioam                           | Rakesh Gandhi       |
 
  
 
@@ -53,20 +55,19 @@ Session 2  (120min)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| xx:xx   | 15m    | draft-yoon-ccamp-pm-streaming                      | Bin Yeong Yoon      |
+| xx:xx   | 10m    | draft-yoon-ccamp-pm-streaming                      | Bin Yeong Yoon      |
 |         |        | draft-yoon-ippm-collection-interval-capabilities   |                     |
 |         |        | draft-yoon-ippm-collection-measure                 |                     |
 | xx:xx   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin        |
 | xx:xx   | 10m    | draft-gandhi-ippm-stamp-mpls-hdr                   | Rakesh Gandhi       | adoption request
-| xx:xx   | 10m    | draft-gandhi-ippm-stamp-ber                        | Rakesh Gandhi       |
+| xx:xx   | 5m     | draft-gandhi-ippm-stamp-ber                        | Rakesh Gandhi       |
 | xx:xx   | 10m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
 | xx:xx   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye          |
-| xx:xx   |  5m    | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
+
+
+# Divert to Mailing List
+
 | xx:xx   |  5m    | draft-he-ippm-congestion-loss-monitoring-problem   | Xiaoming He         |
 |         |        | draft-he-ippm-congestion-loss-monitoring-arch      |                     |
+| xx:xx   |  5m    | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
 | xx:xx   |  5m    | draft-han-bmwg-agent-security-benchmark            | Meiling Chen        |
-
-
-
-
-
