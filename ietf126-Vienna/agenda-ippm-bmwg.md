@@ -22,7 +22,10 @@ Session 1 (60min)
 | xx:xx   | 10m    | draft-cxx-ippm-ioamaggr                            | Alexander Clemm     |
 |         |        | hackathon: draft-cxx-ippm-ioamaggr                 | Ramon Bister        |
 |         |        |            draft-mbci-ippm-ioam-template-option    | Severin Dellsperger |
-| xx:xx   | 10m    | draft-yl-bmwg-cats                                 | Kehan Yao           | Wednesday
+| 10:20   |  5m    | draft-calabria-bmwg-ai-fabric-terminology          | Qin Wu              |
+|         |        | draft-calabria-bmwg-ai-fabric-training-bench       |                     |
+|         |        | draft-calabria-bmwg-ai-fabric-inference-bench      |                     |
+| xx:xx   |  5m    | draft-yl-bmwg-cats                                 | Kehan Yao           | Wednesday
 |         |        |                                                    | Guanming Zeng       |
 
 
@@ -65,7 +68,7 @@ Session 2  (120min)
 | xx:xx   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye          |
 
 
-# Divert to Mailing List
+# If time permits
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
