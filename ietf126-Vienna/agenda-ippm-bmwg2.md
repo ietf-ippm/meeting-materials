@@ -36,11 +36,12 @@
 | 10:45   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye          |
 
 
-# If time permits
+# If time permits (Single Slide Lightning Talks)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| 10:55   |  1m    | draft-he-ippm-congestion-loss-monitoring-problem   | Xiaoming He         |
+| 10:55   |        | draft-he-ippm-congestion-loss-monitoring-problem   | Xiaoming He         |
 |         |        | draft-he-ippm-congestion-loss-monitoring-arch      |                     |
-| 10:55   |  1m    | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
-| 10:55   |  1m    | draft-han-bmwg-agent-security-benchmark            | Meiling Chen        |
+| 10:55   |        | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
+| 10:55   |        | draft-han-bmwg-agent-security-benchmark            | Meiling Chen        |
+| 10:55   |        | draft-contreras-bmwg-ai-agent-benchmarking         | Luis M. Contreras   |
