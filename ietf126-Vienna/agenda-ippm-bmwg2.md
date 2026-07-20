@@ -15,10 +15,9 @@
 |         |        | draft-ietf-ippm-on-path-telemetry-yang             |                     |
 |         |        | draft-ietf-opsawg-ipfix-alt-mark                   |                     |
 | 09:10   | 10m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini Elkins       |
-| 09:20   | 10m    | draft-ietf-ippm-hybrid-two-step                    | Greg Mirsky         |
-| 09:30   | 10m    | draft-ietf-bmwg-powerbench                         | Shailesh Prabhu     |
-| 09:40   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu           |
-| 09:50   | 10m    | draft-ietf-mpls-mna-ioam                           | Rakesh Gandhi       |
+| 09:20   | 10m    | draft-ietf-bmwg-powerbench                         | Shailesh Prabhu     |
+| 09:30   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu           |
+| 09:40   | 10m    | draft-ietf-mpls-mna-ioam                           | Rakesh Gandhi       |
 
  
 
@@ -26,22 +25,22 @@
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| 10:00   | 10m    | draft-yoon-ccamp-pm-streaming                      | Bin Yeong Yoon      |
+| 09:50   | 10m    | draft-yoon-ccamp-pm-streaming                      | Bin Yeong Yoon      |
 |         |        | draft-yoon-ippm-collection-interval-capabilities   |                     |
 |         |        | draft-yoon-ippm-collection-measure                 |                     |
-| 10:10   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin        |
-| 10:20   | 10m    | draft-gandhi-ippm-stamp-mpls-hdr                   | Rakesh Gandhi       |
-| 10:30   | 5m     | draft-gandhi-ippm-stamp-ber                        | Rakesh Gandhi       |
-| 10:35   | 10m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
-| 10:45   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye          |
+| 10:00   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin        |
+| 10:10   | 10m    | draft-gandhi-ippm-stamp-mpls-hdr                   | Rakesh Gandhi       |
+| 10:20   | 5m     | draft-gandhi-ippm-stamp-ber                        | Rakesh Gandhi       |
+| 10:25   | 10m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
+| 10:35   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye          |
 
 
 # If time permits (Single Slide Lightning Talks)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| 10:55   |        | draft-he-ippm-congestion-loss-monitoring-problem   | Xiaoming He         |
+| 10:45   |        | draft-he-ippm-congestion-loss-monitoring-problem   | Xiaoming He         |
 |         |        | draft-he-ippm-congestion-loss-monitoring-arch      |                     |
-| 10:55   |        | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
-| 10:55   |        | draft-han-bmwg-agent-security-benchmark            | Meiling Chen        |
-| 10:55   |        | draft-contreras-bmwg-ai-agent-benchmarking         | Luis M. Contreras   |
+| 10:45   |        | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
+| 10:45   |        | draft-han-bmwg-agent-security-benchmark            | Meiling Chen        |
+| 10:45   |        | draft-contreras-bmwg-ai-agent-benchmarking         | Luis M. Contreras   |
