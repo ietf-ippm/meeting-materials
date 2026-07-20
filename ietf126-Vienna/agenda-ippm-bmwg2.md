@@ -18,29 +18,29 @@
 | 09:20   | 10m    | draft-ietf-bmwg-powerbench                         | Shailesh Prabhu     |
 | 09:30   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu           |
 | 09:40   | 10m    | draft-ietf-mpls-mna-ioam                           | Rakesh Gandhi       |
-
+| 09:50   | 5m     | draft-ietf-ippm-stamp-cos-ecn                      | Greg White          |
  
 
 # Non Working Group Documents
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| 09:50   | 10m    | draft-yoon-ccamp-pm-streaming                      | Bin Yeong Yoon      |
+| 09:55   | 10m    | draft-yoon-ccamp-pm-streaming                      | Bin Yeong Yoon      |
 |         |        | draft-yoon-ippm-collection-interval-capabilities   |                     |
 |         |        | draft-yoon-ippm-collection-measure                 |                     |
-| 10:00   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin        |
-| 10:10   | 10m    | draft-gandhi-ippm-stamp-mpls-hdr                   | Rakesh Gandhi       |
-| 10:20   | 5m     | draft-gandhi-ippm-stamp-ber                        | Rakesh Gandhi       |
-| 10:25   | 10m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
-| 10:35   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye          |
+| 10:05   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin        |
+| 10:15   | 10m    | draft-gandhi-ippm-stamp-mpls-hdr                   | Rakesh Gandhi       |
+| 10:25   | 5m     | draft-gandhi-ippm-stamp-ber                        | Rakesh Gandhi       |
+| 10:30   | 10m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
+| 10:40   | 10m    | draft-ye-ippm-switching-efficiency                 | Niangen Ye          |
 
 
 # If time permits (Single Slide Lightning Talks)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| 10:45   |        | draft-he-ippm-congestion-loss-monitoring-problem   | Xiaoming He         |
+| 10:10   |        | draft-he-ippm-congestion-loss-monitoring-problem   | Xiaoming He         |
 |         |        | draft-he-ippm-congestion-loss-monitoring-arch      |                     |
-| 10:45   |        | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
-| 10:45   |        | draft-han-bmwg-agent-security-benchmark            | Meiling Chen        |
-| 10:45   |        | draft-contreras-bmwg-ai-agent-benchmarking         | Luis M. Contreras   |
+| 10:10   |        | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
+| 10:10   |        | draft-han-bmwg-agent-security-benchmark            | Meiling Chen        |
+| 10:10   |        | draft-contreras-bmwg-ai-agent-benchmarking         | Luis M. Contreras   |
