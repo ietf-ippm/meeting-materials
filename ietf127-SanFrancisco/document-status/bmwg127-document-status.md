@@ -16,14 +16,14 @@ https://datatracker.ietf.org/meeting/126/session/ippm
 
 ### draft-ietf-bmwg-network-tester-cfg
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-network-tester-cfg/
-* **State**: in IETF LC
+* **State**: in RFC Ed Queue
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-ietf-bmwg-network-tester-cfg
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-bmwg-network-tester-cfg
 * **IETF Session**: 
 
 ### draft-ietf-bmwg-sr-bench-meth
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-sr-bench-meth/
-* **State**: WGLC concluded and -06 revision addressed comments from WGLC. Sarah is document shepherd. in IETF LC.
+* **State**: in IETF LC
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-ietf-bmwg-sr-bench-meth
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-bmwg-sr-bench-meth
 * **IETF Session**: 
@@ -37,7 +37,7 @@ https://datatracker.ietf.org/meeting/126/session/ippm
 
 ### draft-ietf-bmwg-powerbench
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-powerbench/
-* **State**: -01 revision posted. A presentation during the next GREEN WG session could be proposed to get cross reviews. Presented at IETF 126 and discussions with GREEN ongoing.
+* **State**: -02 revision posted. Presented at IETF 126, cross reviews and discussions with GREEN WG ongoing. 
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-ietf-bmwg-powerbench
 * **Mailinglist**: https://mailarchive.ietf.org/arch/msg/bmwg/T2mHZBoTSJDNxiRXHJVlK5XZp88/
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-bmwg-powerbench
@@ -45,7 +45,7 @@ https://datatracker.ietf.org/meeting/126/session/ippm
 
 ### draft-ietf-bmwg-savnet-sav-benchmarking
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-bmwg-savnet-sav-benchmarking/
-* **State**: Document updated and -01 revision posted. -03 was presented at IETF 126.
+* **State**: Document updated and -03 revision posted. It was presented at IETF 126.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/bmwg/?q=draft-ietf-bmwg-savnet-sav-benchmarking
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-bmwg-savnet-sav-benchmarking
 * **IETF Session**: 
