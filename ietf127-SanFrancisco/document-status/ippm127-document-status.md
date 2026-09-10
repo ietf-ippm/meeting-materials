@@ -45,9 +45,10 @@ https://datatracker.ietf.org/meeting/126/session/ippm
 
 ### draft-ietf-ippm-alt-mark-yang
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-ippm-alt-mark-yang/
-* **State**: Giuseppe Fioccola presented at IETF 125 and requested WGLC. Poll showed Yes 12 / No 9 (Total Participants: 51). WGLC started on May 7 and has been extended to June 5th. Benoit from perfmetdir review raises concern on YANG module alignment between draft-ietf-ippm-on-path-telemetry-yang and draft-ietf-ippm-alt-mark-yang. Paul Aitken reviewed draft-ietf-ippm-on-path-telemetry-yang-05 and draft-ietf-ippm-alt-mark-yang-05 with consistency to draft-ietf-opsawg-ipfix-alt-mark-07 and was addressed in draft-ietf-ippm-on-path-telemetry-yang-06 and draft-ietf-ippm-alt-mark-yang-06 expecting confirmation.
+* **State**: Giuseppe Fioccola presented at IETF 125 and requested WGLC. Poll showed Yes 12 / No 9 (Total Participants: 51). WGLC started on May 7 and has been extended to June 5th. Benoit raises concern on YANG module alignment between draft-ietf-ippm-on-path-telemetry-yang and draft-ietf-ippm-alt-mark-yang. Paul Aitken from perfmetdir reviewed draft-ietf-ippm-on-path-telemetry-yang-05 and draft-ietf-ippm-alt-mark-yang-05 with consistency to draft-ietf-opsawg-ipfix-alt-mark-07 and was addressed in draft-ietf-ippm-on-path-telemetry-yang-06 and draft-ietf-ippm-alt-mark-yang-06 expecting confirmation.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/ippm/?q=draft-ietf-ippm-alt-mark-yang
 * **Mailinglist**: https://mailarchive.ietf.org/arch/msg/ippm/_-4Is31EWyZDJQd4EkOMaz3NlNg/
+* **Mailinglist**: https://mailarchive.ietf.org/arch/msg/ippm/4Y06gNn2ATlTdfW8i7lSofDZ-f0/
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-ippm-alt-mark-yang
 * **IETF Session**: 
 
