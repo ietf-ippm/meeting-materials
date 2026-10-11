@@ -12,8 +12,8 @@ Session 1 (120min)
 |---------|--------|----------------------------------------------------|---------------------|
 | xx:xx   | 10m    | Welcome, Note Well, Agenda, Status                 | Chairs              |
 | xx:xx   | 10m    | draft-ietf-bmwg-powerbench                         | Shailesh Prabhu     |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
+| xx:xx   | 10m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini or Mike      |
+| xx:xx   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu           |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
