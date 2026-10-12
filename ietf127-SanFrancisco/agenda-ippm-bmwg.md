@@ -37,7 +37,9 @@ Session 1 (120min)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| xx:xx   | 20m    | Next Steps and Transition to BPM working           | Qin Wu , Chairs     |
+| xx:xx   | 20m    | Next Steps and Transition to BPM working           | Qin Wu, Chairs      |
+| xx:xx   | 10m    | NET4AI RG cooperation															| Antoine, Dirk       |
+
 
 
 Session 2  (60min)
