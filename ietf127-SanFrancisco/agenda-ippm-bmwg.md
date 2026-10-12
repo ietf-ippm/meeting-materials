@@ -14,7 +14,7 @@ Session 1 (120min)
 | xx:xx   | 10m    | draft-ietf-bmwg-powerbench                         | Shailesh Prabhu     |
 | xx:xx   | 10m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini or Mike      |
 | xx:xx   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu           |
-| xx:xx   |        |                                                    |                     |
+| xx:xx   | 10m    | draft-ietf-mpls-stamp                              | Greg Mirsky         |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
