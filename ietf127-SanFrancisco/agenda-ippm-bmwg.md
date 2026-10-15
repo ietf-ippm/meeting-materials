@@ -16,7 +16,7 @@ Session 1 (120min)
 | xx:xx   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu           |
 | xx:xx   | 10m    | draft-ietf-mpls-stamp                              | Greg Mirsky         |
 | xx:xx   | 10-15m | draft-ietf-ippm-stamp-cos-ecn                      | Greg White          |
-| xx:xx   |        |                                                    |                     |
+| xx:xx   | 10m    | draft-ietf-ippm-on-path-telemetry-yang             | Giuseppe Fioccola   |
 | xx:xx   |        |                                                    |                     |
 
 
@@ -38,7 +38,7 @@ Session 1 (120min)
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
 | xx:xx   | 20m    | Next Steps and Transition to BPM working           | Qin Wu, Chairs      |
-| xx:xx   | 10m    | NET4AI RG cooperation															| Antoine, Dirk       |
+| xx:xx   | 10m    | NET4AI RG cooperation                              | Antoine, Dirk       |
 
 
 
@@ -75,7 +75,7 @@ Session 2  (60min)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| xx:xx   |        |                                                    |                     |
+| xx:xx   |        | draft-khandelwal-bmwg-agent-memory-integrity       | Yasha Khandelwal    |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
