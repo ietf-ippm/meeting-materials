@@ -15,7 +15,7 @@ Session 1 (120min)
 | xx:xx   | 10m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini or Mike      |
 | xx:xx   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu           |
 | xx:xx   | 10m    | draft-ietf-mpls-stamp                              | Greg Mirsky         |
-| xx:xx   |        |                                                    |                     |
+| xx:xx   | 10-15m | draft-ietf-ippm-stamp-cos-ecn                      | Greg White          |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
 
