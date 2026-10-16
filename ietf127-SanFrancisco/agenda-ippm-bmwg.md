@@ -24,7 +24,7 @@ Session 1 (120min)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| xx:xx   |        |                                                    |                     |
+| xx:xx   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin/Chenlu Zhang |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
@@ -75,7 +75,7 @@ Session 2  (60min)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| xx:xx   |        | draft-khandelwal-bmwg-agent-memory-integrity       | Yasha Khandelwal    |
+| xx:xx   | 10m    | draft-khandelwal-bmwg-agent-memory-integrity       | Yasha Khandelwal    |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
