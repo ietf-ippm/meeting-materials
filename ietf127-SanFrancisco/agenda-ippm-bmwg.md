@@ -24,8 +24,8 @@ Session 1 (120min)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
+| xx:xx   | 10min  | draft-khandelwal-bmwg-agent-memory-integrity       | Yasha Khandelwal    |
+| xx:xx   | 10min  | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin        |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
