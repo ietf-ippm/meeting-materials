@@ -24,7 +24,7 @@ Session 1 (120min)
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
-| xx:xx   | 10min  | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin        |
+| xx:xx   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin        |
 | xx:xx   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin/Chenlu Zhang |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
