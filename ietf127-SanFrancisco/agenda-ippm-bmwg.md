@@ -17,19 +17,9 @@ Session 1 (120min)
 | xx:xx   | 10m    | draft-ietf-mpls-stamp                              | Greg Mirsky         |
 | xx:xx   | 10-15m | draft-ietf-ippm-stamp-cos-ecn                      | Greg White          |
 | xx:xx   | 10m    | draft-ietf-ippm-on-path-telemetry-yang             | Giuseppe Fioccola   |
-| xx:xx   |        |                                                    |                     |
-
-
-# Non Working Group Documents
-
-| Time    | Length | What                                               | Who                 |
-|---------|--------|----------------------------------------------------|---------------------|
-| xx:xx   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin/Chenlu Zhang |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
+| xx:xx   | 10m    | draft-ietf-ippm-stamp-mpls-hdr                     | Rakesh Gandhi       |
+| xx:xx   | 10m    | draft-ietf-ippm-stamp-ber                          | Rakesh Gandhi       |
+| xx:xx   | 10m    | draft-ietf-ippm-on-path-telemetry-yang             | Giuseppe Fioccola   |
 | xx:xx   |        |                                                    |                     |
 
 
@@ -58,27 +48,14 @@ Session 2  (60min)
 | xx:xx   |        |                                                    |                     |
  
 
-# Non Working Group Documents
-
-| Time    | Length | What                                               | Who                 |
-|---------|--------|----------------------------------------------------|---------------------|
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
-
-
 # If time permits
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
 | xx:xx   | 10m    | draft-khandelwal-bmwg-agent-memory-integrity       | Yasha Khandelwal    |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
-| xx:xx   |        |                                                    |                     |
+| xx:xx   | 10m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
+| xx:xx   | 10m    | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
+| xx:xx   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin/Chenlu Zhang |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
