@@ -19,7 +19,7 @@ Session 1 (120min)
 | xx:xx   | 10m    | draft-ietf-ippm-on-path-telemetry-yang             | Giuseppe Fioccola   |
 | xx:xx   | 10m    | draft-ietf-ippm-stamp-mpls-hdr                     | Rakesh Gandhi       |
 | xx:xx   | 10m    | draft-ietf-ippm-stamp-ber                          | Rakesh Gandhi       |
-| xx:xx   | 10m    | draft-ietf-ippm-on-path-telemetry-yang             | Giuseppe Fioccola   |
+| xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
 
 
