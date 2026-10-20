@@ -56,6 +56,6 @@ Session 2  (60min)
 | xx:xx   | 10m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
 | xx:xx   | 10m    | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
 | xx:xx   | 10m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin/Chenlu Zhang |
-| xx:xx   |        |                                                    |                     |
+| xx:xx   | 10m    | draft-he-ippm-ioam-trace-type-bandwidth            | Xiaoming He         |
 | xx:xx   |        |                                                    |                     |
 | xx:xx   |        |                                                    |                     |
