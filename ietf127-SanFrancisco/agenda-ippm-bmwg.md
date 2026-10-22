@@ -20,13 +20,13 @@ Session 1 (120min)
 | xx:xx   | 10m    | draft-ietf-ippm-on-path-telemetry-yang             | Giuseppe Fioccola   |
 | xx:xx   | 10m    | draft-ietf-ippm-stamp-mpls-hdr                     | Rakesh Gandhi       |
 | xx:xx   | 10m    | draft-ietf-ippm-stamp-ber                          | Rakesh Gandhi       |
+| xx:xx   |        |                                                    |                     |
 
 # Chartering
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
 | xx:xx   | 10m    | Next Steps and Transition to BPM working           | Qin Wu, Chairs      |
-| xx:xx   | 10m    | NET4AI RG cooperation                              | Antoine, Dirk       |
 
 
 Session 2  (60min)
@@ -45,6 +45,13 @@ Session 2  (60min)
 | xx:xx   |  5m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin/Chenlu Zhang |
 | xx:xx   |  5m    | draft-he-ippm-ioam-trace-type-bandwidth            | Xiaoming He         |
 | xx:xx   |        |                                                    |                     |
+
+# Chartering
+
+| Time    | Length | What                                               | Who                 |
+|---------|--------|----------------------------------------------------|---------------------|
+| xx:xx   | 10m    | NET4AI RG cooperation                              | Antoine, Dirk       |
+
 
 # If time permits
 
