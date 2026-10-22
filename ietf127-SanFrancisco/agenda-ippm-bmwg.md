@@ -37,9 +37,9 @@ Session 2  (60min)
 |---------|--------|----------------------------------------------------|---------------------|
 | xx:xx   |  5m    | Welcome, Note Well, Agenda, Status                 | Chairs              |
 | xx:xx   | 10m    | draft-khandelwal-bmwg-agent-memory-integrity       | Yasha Khandelwal    |
-| xx:xx   |        | with hackathon implementation report               |                     |
+| xx:xx   |        | (with hackathon implementation report)             |                     |
 | xx:xx   | 10m    | draft-netana-ippm-ioam-on-path-delay               | Alex Huang Feng     |
-| xx:xx   |        | with hackathon implementation report               |                     |
+| xx:xx   |        | (with hackathon implementation report)             |                     |
 | xx:xx   |  5m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
 | xx:xx   |  5m    | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
 | xx:xx   |  5m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin/Chenlu Zhang |
