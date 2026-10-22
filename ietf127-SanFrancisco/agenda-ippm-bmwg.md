@@ -17,9 +17,9 @@ Session 1 (120min)
 | xx:xx   | 10m    | draft-ietf-ippm-hybrid-two-step                    | Greg Mirsky         |
 | xx:xx   | 10m    | draft-ietf-mpls-stamp                              | Greg Mirsky         |
 | xx:xx   | 10m    | draft-ietf-ippm-stamp-cos-ecn                      | Greg White          |
-| xx:xx   | 10m    | draft-ietf-ippm-on-path-telemetry-yang             | Giuseppe Fioccola   |
 | xx:xx   | 10m    | draft-ietf-ippm-stamp-mpls-hdr                     | Rakesh Gandhi       |
 | xx:xx   | 10m    | draft-ietf-ippm-stamp-ber                          | Rakesh Gandhi       |
+| xx:xx   | 10m    | draft-ietf-ippm-on-path-telemetry-yang             | Giuseppe Fioccola   |
 | xx:xx   |        |                                                    |                     |
 
 # Chartering
