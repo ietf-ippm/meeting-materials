@@ -43,7 +43,7 @@ Session 2  (60min)
 | 11:55   | 10m    | draft-contreras-bmwg-ai-agent-benchmarking (with hackathon implementation report)   | Luis Contreras      |
 | 12:05   |  5m    | draft-yl-bmwg-cats                                 | Kehan Yao           |
 | 12:10   |  5m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
-| 12:15   |  5m    | draft-liu-ippm-active-loss-considerations          | Libin Liu           |
+| 12:15   |  5m    | draft-liu-ippm-measurement-interpretation          | Libin Liu           |
 | 12:20   |  5m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin/Chenlu Zhang |
 | 12:25   |  5m    | draft-he-ippm-ioam-trace-type-bandwidth            | Xiaoming He         |
 
