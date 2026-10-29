@@ -33,7 +33,7 @@ Session 1 (120min)
 
 Session 2  (60min)
 
-# Poposed Work
+# Proposed Work
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
