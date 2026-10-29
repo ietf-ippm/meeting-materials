@@ -40,12 +40,12 @@ Session 2  (60min)
 | 11:30   |  5m    | Welcome, Note Well, Agenda, Status                 | Chairs              |
 | 11:35   | 10m    | draft-khandelwal-bmwg-agent-memory-integrity (with hackathon implementation report) | Yasha Khandelwal    |
 | 11:45   | 10m    | draft-netana-ippm-ioam-on-path-delay (with hackathon implementation report)         | Alex Huang Feng     |
-| 11:55   | 10m    | draft-contreras-bmwg-ai-agent-benchmarking (with hackathon implementation report)   | Luis Contreras      |
-| 12:05   |  5m    | draft-yl-bmwg-cats                                 | Kehan Yao           |
-| 12:10   |  5m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
-| 12:15   |  5m    | draft-liu-ippm-measurement-interpretation          | Libin Liu           |
-| 12:20   |  5m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin/Chenlu Zhang |
-| 12:25   |  5m    | draft-he-ippm-ioam-trace-type-bandwidth            | Xiaoming He         |
+| 11:55   |  5m    | draft-yl-bmwg-cats                                 | Kehan Yao           |
+| 12:00   |  5m    | draft-lg-bmwg-benchmarking-methodology-for-rov     | Libin Liu           |
+| 12:05   |  5m    | draft-liu-ippm-measurement-interpretation          | Libin Liu           |
+| 12:10   |  5m    | draft-qin-bmwg-rpki-rp-bench                       | Lancheng Qin/Chenlu Zhang |
+| 12:15   |  5m    | draft-he-ippm-ioam-trace-type-bandwidth            | Xiaoming He         |
+| 12:20   |  5m    | draft-contreras-bmwg-ai-agent-benchmarking         | Luis Contreras      |
 
 # If time permits
 
