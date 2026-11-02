@@ -11,7 +11,7 @@ Session 1 (120min)
 | 16:30   | 10m    | Welcome, Note Well, Agenda, Status                 | Chairs              |
 | 16:40   | 10m    | draft-ietf-bmwg-powerbench                         | Shailesh Prabhu     |
 | 16:50   | 10m    | draft-ietf-ippm-encrypted-pdmv2                    | Nalini or Mike      |
-| 17:00   | 10m    | draft-ietf-bmwg-savnet-sav-benchmarking            | Libin Liu           |
+| 17:00   | 10m    | draft-ietf-bpm-savnet-sav-benchmarking             | Libin Liu           |
 | 17:10   | 10m    | draft-ietf-ippm-hybrid-two-step                    | Greg Mirsky         |
 | 17:20   | 10m    | draft-ietf-mpls-stamp                              | Greg Mirsky         |
 | 17:30   | 10m    | draft-ietf-ippm-stamp-cos-ecn                      | Greg White          |
@@ -39,13 +39,13 @@ Session 2  (60min)
 |---------|--------|----------------------------------------------------|---------------------|
 | 11:30   |  5m    | Welcome, Note Well, Agenda, Status                 | Chairs              |
 | 11:35   | 10m    | draft-khandelwal-bpm-agent-memory-integrity (with hackathon implementation report) | Yasha Khandelwal    |
-| 11:45   | 10m    | draft-netana-ippm-ioam-on-path-delay (with hackathon implementation report)         | Alex Huang Feng     |
-| 11:55   |  5m    | draft-yl-bmwg-cats                                 | Kehan Yao           |
-| 12:00   |  5m    | draft-lg-bpm-benchmarking-methodology-for-rov      | Libin Liu           |
-| 12:05   |  5m    | draft-liu-bpm-measurement-interpretation           | Libin Liu           |
-| 12:10   |  5m    | draft-qin-bpm-rpki-rp-bench                        | Lancheng Qin/Chenlu Zhang |
-| 12:15   |  5m    | draft-he-bpm-ioam-trace-type-bandwidth             | Xiaoming He         |
-| 12:20   |  5m    | draft-contreras-bmwg-ai-agent-benchmarking         | Luis Contreras      |
+| 11:45   | 10m    | draft-netana-ippm-ioam-on-path-delay (with hackathon implementation report) | Alex Huang Feng     |
+| 11:55   | 10m    | draft-contreras-bpm-ai-agent-benchmarking (with hackathon implementation report) | Luis Contreras/Qin Wu |
+| 12:05   |  5m    | draft-yl-bpm-cats                                  | Kehan Yao           |
+| 12:10   |  5m    | draft-lg-bpm-benchmarking-methodology-for-rov      | Libin Liu           |
+| 12:15   |  5m    | draft-liu-bpm-measurement-interpretation           | Libin Liu           |
+| 12:20   |  5m    | draft-qin-bpm-rpki-rp-bench                        | Lancheng Qin/Chenlu Zhang |
+| 12:25   |  5m    | draft-he-bpm-ioam-trace-type-bandwidth             | Xiaoming He         |
 
 # If time permits
 
