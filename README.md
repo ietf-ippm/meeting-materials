@@ -1,13 +1,13 @@
 # meeting-materials
 This repository contains materials for meetings of the 
 [Internet Engineering Task Force](https://www.ietf.org) (IETF) 
-[IP Performance Measurement](https://datatracker.ietf.org/wg/ippm) (IPPM) 
+[Benchmarking & Performance Measurements](https://datatracker.ietf.org/wg/bpm) (BPM) 
 working group, in separate directories for each meeting.
 
 Not all materials are available in this repository; this provides a 
 location to organize agendas and chair slides, as well as to allow 
 slide submission via GitHub pull requests. See the 
-[datatracker](https://datatracker.ietf.org/wg/ippm)
+[datatracker](https://datatracker.ietf.org/wg/bpm)
 for the definitive collection of materials for each meeting.
 
 **[NOTE WELL](https://www.ietf.org/about/note-well/)** that the 
@@ -16,3 +16,4 @@ the IETF; please [read](https://tools.ietf.org/html/bcp79)
 and understand the implications of this before submitting pull
 requests to this repository.
 
+Note that BPM is a merger of the previous IPPM and BMWG working groups.
