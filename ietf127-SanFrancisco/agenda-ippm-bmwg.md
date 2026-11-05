@@ -1,6 +1,6 @@
 *When*   Tuesday 17th November 2026, 16:30 - 18:30 ETC (UTC -7)
 *Where:*  Golden Gate 7-8, https://meetings.conf.meetecho.com/ietf127/?session=35903
-*Chairs:* Giuseppe Fioccola, Sarah Banks, Marcus Ihlar, Thomas Graf
+*Chairs:* Giuseppe Fioccola, Marcus Ihlar, Thomas Graf
 
 Session 1 (120min)
 
@@ -15,21 +15,29 @@ Session 1 (120min)
 | 17:10   | 10m    | draft-ietf-ippm-hybrid-two-step                    | Greg Mirsky         |
 | 17:20   | 10m    | draft-ietf-mpls-stamp                              | Greg Mirsky         |
 | 17:30   | 10m    | draft-ietf-ippm-stamp-cos-ecn                      | Greg White          |
-| 17:40   | 10m    | draft-ietf-bpm-stamp-mpls-hdr                      | Rakesh Gandhi       |
-| 17:50   | 10m    | draft-ietf-bpm-stamp-ber                           | Rakesh Gandhi       |
-| 18:00   | 10m    | draft-ietf-bpm-on-path-telemetry-yang              | Giuseppe Fioccola   |
+| 17:40   |  5m    | draft-ietf-bpm-stamp-mpls-hdr                      | Rakesh Gandhi       |
+| 17:45   |  5m    | draft-ietf-bpm-stamp-ber                           | Rakesh Gandhi       |
+| 17:50   |  5m    | draft-ietf-spring-stamp-srpm-mpls                  | Rakesh Gandhi       |
+| 17:55   |  5m    | draft-ietf-spring-stamp-srpm-srv6                  | Rakesh Gandhi       |
+| 18:00   |  5m    | draft-ietf-bpm-on-path-telemetry-yang              | Giuseppe Fioccola   |
+
+# Proposed Work
+
+| Time    | Length | What                                               | Who                 |
+|---------|--------|----------------------------------------------------|---------------------|
+| 18:05   |  5m    | draft-yl-bpm-cats                                  | Kehan Yao           |
 
 # Chartering
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
 | 18:10   | 10m    | BPM WG Next Steps and Transition                   | Qin Wu, Chairs      |
-| 18:20   | 10m    | NET4AI RG cooperation                              | Antoine, Dirk       |
+| 18:20   | 10m    | NET4AI RG cooperation                              | Antoine Fressancourt/Dirk Kutscher |
 
 
 *When*   Wednesday 18th November 2026, 11:30 - 12:30 ETC (UTC -7)
 *Where:*  Golden Gate 7-8, https://meetings.conf.meetecho.com/ietf127/?session=35904
-*Chairs:* Giuseppe Fioccola, Sarah Banks, Marcus Ihlar, Thomas Graf
+*Chairs:* Giuseppe Fioccola, Marcus Ihlar, Thomas Graf
 
 Session 2  (60min)
 
@@ -38,18 +46,22 @@ Session 2  (60min)
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
 | 11:30   |  5m    | Welcome, Note Well, Agenda, Status                 | Chairs              |
-| 11:35   | 10m    | draft-khandelwal-bpm-agent-memory-integrity (with hackathon implementation report) | Yasha Khandelwal    |
-| 11:45   | 10m    | draft-netana-ippm-ioam-on-path-delay (with hackathon implementation report) | Alex Huang Feng     |
-| 11:55   | 10m    | draft-contreras-bpm-ai-agent-benchmarking (with hackathon implementation report) | Luis Contreras/Qin Wu |
-| 12:05   |  5m    | draft-yl-bpm-cats                                  | Kehan Yao           |
-| 12:10   |  5m    | draft-lg-bpm-benchmarking-methodology-for-rov      | Libin Liu           |
-| 12:15   |  5m    | draft-liu-bpm-measurement-interpretation           | Libin Liu           |
-| 12:20   |  5m    | draft-qin-bpm-rpki-rp-bench                        | Lancheng Qin/Chenlu Zhang |
-| 12:25   |  5m    | draft-he-bpm-ioam-trace-type-bandwidth             | Xiaoming He         |
+| 11:35   | 10m    | draft-khandelwal-bpm-agent-memory-integrity (with hackathon implementation report) | Yasha Khandelwal |
+| 11:45   | 10m    | draft-netana-ippm-ioam-on-path-delay (with hackathon implementation report) | Alex Huang Feng |
+| 11:55   |  5m    | draft-contreras-bpm-ai-agent-benchmarking (with hackathon implementation report) | Luis Contreras/Qin Wu |
+| 12:00   |  5m    | draft-mayer-bpm-ioam-gob (with hackathon implementation report) | Stefano Salsano |
+| 12:05   |  5m    | draft-lg-bpm-benchmarking-methodology-for-rov      | Libin Liu           |
+| 12:10   |  5m    | draft-liu-bpm-measurement-interpretation           | Libin Liu           |
+| 12:15   |  5m    | draft-qin-bpm-rpki-rp-bench                        | Lancheng Qin/Chenlu Zhang |
+
 
 # If time permits
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
+| xx:xx   |        | draft-he-bpm-ioam-trace-type-bandwidth             | Xiaoming He         |
+| xx:xx   |        | draft-yoon-bpm-pm-collection                       | Bin Yeong Yoon      |
+| xx:xx   |        | draft-yoon-bpm-pm-capabilities                     | Bin Yeong Yoon      |
 | xx:xx   |        | draft-hcf-bpm-agent-security-benchmark-terminology | Meiling Chen        |
 | xx:xx   |        | draft-hcf-bpm-agent-security-benchmark-profiles    | Meiling Chen        |
+| xx:xx   |        | draft-dikshit-bpm-telemetry-comparability          | Saumya Dikshit      |
