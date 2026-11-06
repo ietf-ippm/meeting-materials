@@ -21,7 +21,7 @@ Session 1 (120min)
 | 17:55   |  5m    | draft-ietf-spring-stamp-srpm-srv6                  | Rakesh Gandhi       |
 | 18:00   |  5m    | draft-ietf-bpm-on-path-telemetry-yang              | Giuseppe Fioccola   |
 
-# Proposed Work
+# Proposed Work under working group adoption
 
 | Time    | Length | What                                               | Who                 |
 |---------|--------|----------------------------------------------------|---------------------|
